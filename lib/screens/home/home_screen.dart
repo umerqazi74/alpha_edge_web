@@ -248,7 +248,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           ),
                         ],
                       ),
-                      SizedBox(height: 170),
+                      SizedBox(height: 100),
                       const Text(
                         "How AlphaEdge Gives You the\nTrading Edge",
                         textAlign: TextAlign.center,
@@ -258,7 +258,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           fontWeight: FontWeight.w800,
                         ),
                       ),
-                      SizedBox(height: 100),
+                      SizedBox(height: 70),
                       Row(
                         children: <Widget>[
                           Expanded(

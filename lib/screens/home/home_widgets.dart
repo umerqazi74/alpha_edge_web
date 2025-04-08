@@ -350,46 +350,44 @@ class ReasonItemsWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Expanded(
-      child: InkWellWidget(
-        onTap: onTap,
-        child: Container(
-          height: 123,
-          width: double.infinity,
-          padding: EdgeInsets.symmetric(horizontal: 30),
-          decoration: BoxDecoration(
-            color: Colors.transparent,
-            borderRadius: BorderRadius.circular(13),
-            border: Border.all(
-              color: bColorOne,
-              width: 1,
-            ),
+    return InkWellWidget(
+      onTap: onTap,
+      child: Container(
+        height: 123,
+        width: double.infinity,
+        padding: EdgeInsets.symmetric(horizontal: 30),
+        decoration: BoxDecoration(
+          color: Colors.transparent,
+          borderRadius: BorderRadius.circular(13),
+          border: Border.all(
+            color: bColorOne,
+            width: 1,
           ),
-          child: Center(
-            child: Row(
-              children: <Widget>[
-                CircleIconWidget(
-                  height: 72,
-                  width: 72,
-                  boxColor: bColorOne,
-                  borderColor: bColorOne,
-                  icon: "assets/web_icons/tick1.svg",
-                ),
-                SizedBox(width: 30),
-                Expanded(
-                  child: Text(
-                    title,
-                    maxLines: 2,
-                    overflow: TextOverflow.ellipsis,
-                    style: TextStyle(
-                      color: whiteColor,
-                      fontSize: 24,
-                      fontWeight: FontWeight.w400,
-                    ),
+        ),
+        child: Center(
+          child: Row(
+            children: <Widget>[
+              CircleIconWidget(
+                height: 72,
+                width: 72,
+                boxColor: bColorOne,
+                borderColor: bColorOne,
+                icon: "assets/web_icons/tick1.svg",
+              ),
+              SizedBox(width: 30),
+              Expanded(
+                child: Text(
+                  title,
+                  maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
+                  style: TextStyle(
+                    color: whiteColor,
+                    fontSize: 24,
+                    fontWeight: FontWeight.w400,
                   ),
                 ),
-              ],
-            ),
+              ),
+            ],
           ),
         ),
       ),
