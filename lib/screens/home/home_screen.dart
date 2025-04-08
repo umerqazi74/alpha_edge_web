@@ -178,8 +178,9 @@ class _HomeScreenState extends State<HomeScreen> {
                           ),
                         ],
                       ),
-                      SizedBox(height: 190),
+                      SizedBox(height: 100),
                       Row(
+                        crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           Expanded(
                             child: Column(
@@ -191,7 +192,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                   style: TextStyle(
                                     height: 1.2,
                                     color: whiteColor,
-                                    fontSize: 80,
+                                    fontSize: 40,
                                     fontWeight: FontWeight.w800,
                                   ),
                                 ),

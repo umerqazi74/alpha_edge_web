@@ -7050,7 +7050,7 @@ m=q.gB0()
 l=q.ay$
 if(l===$){p=o.a(p.gd3().b.i(0,0))
 p.toString
-k=new A.Ya(B.K,p,null,A.aa(t.T))
+k=new A.Ya(B.L,p,null,A.aa(t.T))
 k.aC()
 k.a4y(null,null,p)
 q.ay$!==$&&A.ax()
@@ -12684,7 +12684,7 @@ return s==null?0:s},
 xB(a,b){var s=a==null?null:a.ah(B.aJ,b,a.gbG())
 return s==null?0:s},
 fD(a){var s=a==null?null:a.gp()
-return s==null?B.K:s},
+return s==null?B.L:s},
 aTZ(a,b){var s=a.wv(B.S,!0)
 return s==null?a.gp().b:s},
 aU_(a,b){var s=a.fo(b,B.S)
@@ -26506,7 +26506,7 @@ p=$.aWg.G(0,c)
 if(p!=null)p.o8(r,q)
 throw A.i(new A.RA(c,r))}},
 aDL(a,b,c,d,e,f,g,h){var s=t.S
-return new A.a70(a,b,e,f,g,c,d,A.a([],t.n9),A.a([],t.Cg),A.a([],t.Qe),A.a([],t.D8),A.a([],t.mh),A.a([],t.mo),A.A(s,t.lu),A.A(s,t.VE),B.K)},
+return new A.a70(a,b,e,f,g,c,d,A.a([],t.n9),A.a([],t.Cg),A.a([],t.Qe),A.a([],t.D8),A.a([],t.mh),A.a([],t.mo),A.A(s,t.lu),A.A(s,t.VE),B.L)},
 hM:function hM(a,b){this.a=a
 this.b=b},
 axj:function axj(a,b,c,d,e,f){var _=this
@@ -41502,7 +41502,7 @@ else return s.c}},
 $S:488}
 A.R2.prototype={
 L(a){var s=null,r=A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),q=A.W(4278524229),p=A.aP(7),o=A.aP(7)
-return A.u(new A.bJ(B.o0,A.aSt(!1,B.mn,this.d,A.a90(s,new A.e9(4,A.aP(7),B.h_),s,new A.J(20,21,20,21),s,s,s,s,!0,new A.e9(4,p,B.h_),s,new A.e9(4,A.aP(7),B.h_),s,s,s,q,!0,s,s,s,s,new A.e9(4,o,B.h_),s,s,s,s,s,s,s,B.Y_,this.c,s,s,s,s,s,s,s,s,s,!0,s,s,s,B.h0,s,s,s,s,this.Q,s,B.h0,B.WW,s),s,B.Ay,s,1,!1,s,s,!1,r,B.Ax,s),s),s,1/0)}}
+return A.u(new A.bJ(B.o0,A.aSt(!1,B.mn,this.d,A.a90(s,new A.e9(4,A.aP(7),B.h_),s,new A.J(20,21,20,21),s,s,s,s,!0,new A.e9(4,p,B.h_),s,new A.e9(4,A.aP(7),B.h_),s,s,s,q,!0,s,s,s,s,new A.e9(4,o,B.h_),s,s,s,s,s,s,s,B.Y_,this.c,s,s,s,s,s,s,s,s,s,!0,s,s,s,B.h0,s,s,s,s,this.Q,s,B.h0,B.WX,s),s,B.Ay,s,1,!1,s,s,!1,r,B.Ax,s),s),s,1/0)}}
 A.NP.prototype={
 L(a){var s=null
 return new A.Bm(B.RB,A.jH(s,A.aCI(B.aL,s,s,B.dL),"Manrope",s,s,s),!1,s)}}
@@ -41513,7 +41513,7 @@ adk(a){this.a6(new A.ap5(this,a))},
 aA(){this.aM()
 this.y=A.aQi(1,0.6)},
 L(b6){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="assets/web_icons/logo.svg",f="Liquidity Sniping",e="Developer Tracking",d="Start Sniping Now",c=4278984263,b="Free (Basic)",a="Instant Telegram Alerts",a0="Priority API Speed",a1="Live Sniper Dashboard",a2="Private Alpha Group Access",a3="Pro (Most Popular)",a4="VIP (All-Access)",a5=4281682621,a6=4285824722,a7="Alpha Edge",a8="@alphaedge",a9="Lorem ipsum is simply dummy text which use for web for dummy use lorem.",b0=t.w,b1=t.p,b2=A.b_(A.a([A.cK("assets/web_icons/shd.png",B.h1,550,A.bC(b6,h,b0).w.a.a/1.5)],b1),B.l,B.bw,B.o),b3=A.dL(g,h),b4=A.u(h,h,30),b5=i.e
-b3=A.b_(A.a([A.ag(A.a([b3,b4,A.S(new A.d8(B.bb,h,h,A.o8(A.ag(A.a([new A.eW("Home",b5===0,new A.apd(i),h),new A.eW("How It Works",b5===1,new A.ape(i),h),new A.eW(f,b5===2,new A.apf(i),h),new A.eW(e,b5===3,new A.apo(i),h),new A.eW("Pricing",b5===4,new A.app(i),h),new A.eW("Join Alpha",b5===5,new A.apq(i),h),A.u(h,h,50),A.cL(B.dL,10,B.cZ,16,B.f,50,new A.apr(),"Sign In",120),A.u(h,h,12),A.cL(B.dL,10,B.m,16,B.f,50,new A.aps(b6),"Get Started",120)],b1),B.l,B.bV,B.o),h,B.a_,h,h,B.ag),h),1)],b1),B.l,B.k,B.o),A.u(h,190,h),A.ag(A.a([A.S(A.b_(A.a([B.YC,A.u(h,24,h),B.YF,A.u(h,28,h),A.aAq(B.cP,A.a([A.cL(B.dL,10,B.m,16,B.f,50,new A.apt(),d,170),A.u(h,h,16),B.Z_],b1),B.AW,B.ag,0,h)],b1),B.L,B.k,B.M),1),A.u(h,h,20),A.iC(B.a0,A.a([A.cK("assets/web_icons/logo.png",B.h1,600,780),A.dL("assets/web_icons/logo4.svg",h)],b1),B.W,B.bo,h)],b1),B.l,B.k,B.o),A.u(h,170,h),B.YW,A.u(h,100,h),A.ag(A.a([A.S(A.aAi("assets/web_icons/time.png","See new tokens the moment they\nadd liquidity.","No more waiting for DexScreener.","Watch New Liquidity Pools in\nReal-Time"),1),A.u(h,h,70),A.S(A.aAi("assets/web_icons/alert.png","Built-in honeypot & scam detection.","See if LP is locked & contract renounced.","Check for Safety Risks\nBefore Sniping"),1),A.u(h,h,70),A.S(A.aAi("assets/web_icons/notification.png","Track Solana\u2019s best token creators.","Be first to their next project.","Get Alerts When a Top Dev\nLaunches"),1)],b1),B.l,B.k,B.o),A.u(h,100,h),A.cL(B.m,10,B.m,16,B.f,50,new A.apu(),"Start Tracking New Tokens",240)],b1),B.l,B.k,B.o)
+b3=A.b_(A.a([A.ag(A.a([b3,b4,A.S(new A.d8(B.bb,h,h,A.o8(A.ag(A.a([new A.eW("Home",b5===0,new A.apd(i),h),new A.eW("How It Works",b5===1,new A.ape(i),h),new A.eW(f,b5===2,new A.apf(i),h),new A.eW(e,b5===3,new A.apo(i),h),new A.eW("Pricing",b5===4,new A.app(i),h),new A.eW("Join Alpha",b5===5,new A.apq(i),h),A.u(h,h,50),A.cL(B.dL,10,B.cZ,16,B.f,50,new A.apr(),"Sign In",120),A.u(h,h,12),A.cL(B.dL,10,B.m,16,B.f,50,new A.aps(b6),"Get Started",120)],b1),B.l,B.bV,B.o),h,B.a_,h,h,B.ag),h),1)],b1),B.l,B.k,B.o),A.u(h,100,h),A.ag(A.a([A.S(A.b_(A.a([B.YF,A.u(h,24,h),B.YE,A.u(h,28,h),A.aAq(B.cP,A.a([A.cL(B.dL,10,B.m,16,B.f,50,new A.apt(),d,170),A.u(h,h,16),B.Z_],b1),B.AW,B.ag,0,h)],b1),B.K,B.k,B.M),1),A.u(h,h,20),A.iC(B.a0,A.a([A.cK("assets/web_icons/logo.png",B.h1,600,780),A.dL("assets/web_icons/logo4.svg",h)],b1),B.W,B.bo,h)],b1),B.K,B.k,B.o),A.u(h,170,h),B.YW,A.u(h,100,h),A.ag(A.a([A.S(A.aAi("assets/web_icons/time.png","See new tokens the moment they\nadd liquidity.","No more waiting for DexScreener.","Watch New Liquidity Pools in\nReal-Time"),1),A.u(h,h,70),A.S(A.aAi("assets/web_icons/alert.png","Built-in honeypot & scam detection.","See if LP is locked & contract renounced.","Check for Safety Risks\nBefore Sniping"),1),A.u(h,h,70),A.S(A.aAi("assets/web_icons/notification.png","Track Solana\u2019s best token creators.","Be first to their next project.","Get Alerts When a Top Dev\nLaunches"),1)],b1),B.l,B.k,B.o),A.u(h,100,h),A.cL(B.m,10,B.m,16,B.f,50,new A.apu(),"Start Tracking New Tokens",240)],b1),B.l,B.k,B.o)
 b4=A.u(h,120,h)
 b5=A.W(c)
 s=A.u(h,100,h)
@@ -41547,7 +41547,7 @@ m=A.W(a6)
 m=A.b_(A.a([r,q,B.YY,n,A.cp(A.W(a6),m,100,"assets/web_icons/logo5.svg",24,!1,h,100),A.u(h,30,h),A.cL(B.m,10,B.m,16,B.f,50,new A.apl(),"Join Now",170),A.u(h,100,h),A.o8(A.ag(A.a([A.alj(a8,a9,a7),A.u(h,h,30),A.alj(a8,a9,a7),A.u(h,h,30),A.alj(a8,a9,a7),A.u(h,h,30),A.alj(a8,a9,a7)],b1),B.l,B.k,B.o),h,B.a_,h,h,B.ag),A.u(h,150,h),B.YS,A.u(h,20,h),B.YT,A.u(h,40,h),A.ag(A.a([A.cL(B.m,10,B.m,16,B.f,50,new A.apm(),d,170),A.u(h,h,14),A.cL(A.W(a5),10,B.u,16,B.f,50,new A.apn(),"See How It Works",170)],b1),B.l,B.k,B.M)],b1),B.l,B.k,B.o)
 n=A.u(h,70,h)
 q=A.W(c)
-return A.aFz(B.dL,A.o8(A.iC(B.bB,A.a([b2,A.b_(A.a([new A.bJ(B.jW,b3,h),b4,b5,s,new A.bJ(B.jW,b0,h),j,new A.bJ(B.o5,m,h),n,A.ak(h,A.b_(A.a([new A.bJ(B.Jd,A.ag(A.a([A.S(A.b_(A.a([B.YB,A.u(h,24,h),B.YH],b1),B.L,B.k,B.M),1),A.u(h,h,20),A.dL(g,h),A.u(h,h,20),A.S(A.b_(A.a([B.YD,A.u(h,24,h),B.YL],b1),B.dM,B.k,B.M),1)],b1),B.l,B.k,B.o),h),A.ak(h,h,B.p,B.d.bF(0.35),h,h,h,1,h,new A.J(0,60,0,30),h,h,h,1/0),B.Z2,A.u(h,30,h)],b1),B.l,B.bV,B.o),B.p,h,h,new A.at(q,h,h,h,h,h,h,B.w),h,320,h,h,h,h,h,1/0)],b1),B.L,B.k,B.o)],b1),B.W,B.bo,h),h,B.a_,h,h,B.av))}}
+return A.aFz(B.dL,A.o8(A.iC(B.bB,A.a([b2,A.b_(A.a([new A.bJ(B.jW,b3,h),b4,b5,s,new A.bJ(B.jW,b0,h),j,new A.bJ(B.o5,m,h),n,A.ak(h,A.b_(A.a([new A.bJ(B.Jd,A.ag(A.a([A.S(A.b_(A.a([B.YB,A.u(h,24,h),B.YH],b1),B.K,B.k,B.M),1),A.u(h,h,20),A.dL(g,h),A.u(h,h,20),A.S(A.b_(A.a([B.YC,A.u(h,24,h),B.YL],b1),B.dM,B.k,B.M),1)],b1),B.l,B.k,B.o),h),A.ak(h,h,B.p,B.d.bF(0.35),h,h,h,1,h,new A.J(0,60,0,30),h,h,h,1/0),B.Z2,A.u(h,30,h)],b1),B.l,B.bV,B.o),B.p,h,h,new A.at(q,h,h,h,h,h,h,B.w),h,320,h,h,h,h,h,1/0)],b1),B.K,B.k,B.o)],b1),B.W,B.bo,h),h,B.a_,h,h,B.av))}}
 A.ap5.prototype={
 $0(){this.a.x=this.b},
 $S:0}
@@ -41641,7 +41641,7 @@ L(a){var s=null,r=this.d,q=A.P(this.c,1,B.j,s,s,A.V(s,s,r?B.d:A.W(4289506476),s,
 return new A.bJ(B.IT,new A.hA(this.e,A.b_(A.a([q,A.ak(s,s,B.p,s,s,new A.at(r?B.m:B.u,s,s,s,s,s,s,B.aV),s,13,s,new A.J(0,6,0,0),s,s,s,13)],t.p),B.l,B.dX,B.M),s),s)}}
 A.Rj.prototype={
 L(a){var s=this,r=null,q="assets/web_icons/tick.svg",p=A.aP(13),o=A.bg(B.m,1),n=A.cK(s.c,r,123,123),m=A.u(r,44,r),l=A.P(s.d,2,B.j,r,r,A.V(r,r,B.d,r,r,r,r,r,r,r,r,24,r,r,B.f1,r,r,!0,r,r,r,r,r,r,r,r),r,r),k=A.u(r,16,r),j=t.p,i=A.ag(A.a([A.cp(B.d,B.u,28,q,24,!1,r,28),A.u(r,r,10),A.S(A.P(s.e,2,B.j,r,r,A.V(r,r,B.d,r,r,r,r,r,r,r,r,20,r,r,B.f,r,r,!0,r,r,r,r,r,r,r,r),r,r),1)],j),B.l,B.k,B.o),h=A.u(r,16,r),g=A.ag(A.a([A.cp(B.d,B.u,28,q,24,!1,r,28),A.u(r,r,10),A.S(A.P(s.f,2,B.j,r,r,A.V(r,r,B.d,r,r,r,r,r,r,r,r,20,r,r,B.f,r,r,!0,r,r,r,r,r,r,r,r),r,r),1)],j),B.l,B.k,B.o),f=A.u(r,40,r),e=A.W(4278194487),d=A.bg(B.m,1),c=A.a([new A.bj(0,B.Q,A.W(4281682621).bF(0.45),new A.h(0,4),16.8)],t.V)
-return new A.hA(r,A.ak(r,A.b_(A.a([n,m,l,k,i,h,g,f,A.ak(r,A.bD(A.dL("assets/web_icons/right_side.svg",r),r,r),B.p,r,r,new A.at(e,r,d,r,c,r,r,B.aV),r,60,r,r,r,r,r,60)],j),B.L,B.k,B.o),B.p,r,r,new A.at(B.u,r,o,p,r,r,r,B.w),r,r,r,r,new A.J(46,38,46,38),r,r,1/0),r)}}
+return new A.hA(r,A.ak(r,A.b_(A.a([n,m,l,k,i,h,g,f,A.ak(r,A.bD(A.dL("assets/web_icons/right_side.svg",r),r,r),B.p,r,r,new A.at(e,r,d,r,c,r,r,B.aV),r,60,r,r,r,r,r,60)],j),B.K,B.k,B.o),B.p,r,r,new A.at(B.u,r,o,p,r,r,r,B.w),r,r,r,r,new A.J(46,38,46,38),r,r,1/0),r)}}
 A.Kx.prototype={
 L(a){var s,r=this,q=null,p=A.bg(r.x,1),o=r.f
 if(r.y){s=r.e
@@ -41701,7 +41701,7 @@ L(a){var s=this,r=null,q=A.W(4278193965),p=A.aP(10),o=A.bg(B.m,1),n=t.p,m=A.iC(B
 if(i)k.push(A.P(j,1,B.j,r,r,A.V(r,r,B.d.bF(0.65),r,r,r,r,r,r,r,r,16,B.oC,r,B.C,r,r,!0,r,r,r,r,r,r,r,r),r,r))
 if(i)k.push(A.u(r,8,r))
 k.push(A.P(s.e,2,B.j,r,r,A.V(r,r,B.d,r,r,r,r,r,r,r,r,16,r,r,B.f,r,r,!0,r,r,r,r,r,r,r,r),r,r))
-return new A.hA(r,A.ak(r,A.bD(A.ag(A.a([m,l,A.S(A.b_(k,B.L,B.k,B.M),1)],n),B.l,B.k,B.o),r,r),B.p,r,r,new A.at(q,r,o,p,r,r,r,B.w),r,190,r,new A.J(22,0,22,0),new A.J(50,0,50,0),r,r,820),r)}}
+return new A.hA(r,A.ak(r,A.bD(A.ag(A.a([m,l,A.S(A.b_(k,B.K,B.k,B.M),1)],n),B.l,B.k,B.o),r,r),B.p,r,r,new A.at(q,r,o,p,r,r,r,B.w),r,190,r,new A.J(22,0,22,0),new A.J(50,0,50,0),r,r,820),r)}}
 A.a3P.prototype={
 $2(a,b){return A.dL("assets/web_icons/star.svg",null)},
 $S:535}
@@ -41710,7 +41710,7 @@ $1(a){A.y8(a)},
 $S:90}
 A.RV.prototype={
 L(a){var s=null,r=A.W(4278193965),q=A.aP(27),p=A.bg(B.m,1),o=t.p
-return new A.hA(s,A.ak(s,A.bD(A.b_(A.a([A.ag(A.a([A.cp(B.m,B.m,75,"assets/web_icons/logo5.svg",24,!1,s,75),A.u(s,s,15),A.S(A.b_(A.a([A.P(this.c,1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.P(this.d,1,B.j,s,s,A.V(s,s,B.d.bF(0.65),s,s,s,s,s,s,s,s,16,B.oC,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s)],o),B.L,B.k,B.M),1),A.u(s,s,15),A.dL("assets/web_icons/x.svg",s)],o),B.l,B.k,B.o),A.u(s,40,s),A.P(this.e,3,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s)],o),B.L,B.k,B.M),s,s),B.p,s,s,new A.at(r,s,p,q,s,s,s,B.w),s,270,s,s,new A.J(36,30,36,30),s,s,400),s)}}
+return new A.hA(s,A.ak(s,A.bD(A.b_(A.a([A.ag(A.a([A.cp(B.m,B.m,75,"assets/web_icons/logo5.svg",24,!1,s,75),A.u(s,s,15),A.S(A.b_(A.a([A.P(this.c,1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.P(this.d,1,B.j,s,s,A.V(s,s,B.d.bF(0.65),s,s,s,s,s,s,s,s,16,B.oC,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s)],o),B.K,B.k,B.M),1),A.u(s,s,15),A.dL("assets/web_icons/x.svg",s)],o),B.l,B.k,B.o),A.u(s,40,s),A.P(this.e,3,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s)],o),B.K,B.k,B.M),s,s),B.p,s,s,new A.at(r,s,p,q,s,s,s,B.w),s,270,s,s,new A.J(36,30,36,30),s,s,400),s)}}
 A.L0.prototype={
 L(a){var s=this,r=null
 return A.b_(A.a([A.P(s.c,1,B.j,r,r,A.V(r,r,s.e,r,r,r,r,r,r,r,r,s.r,r,r,s.x,r,r,!0,r,r,r,r,r,r,r,r),B.D,r),A.u(r,s.z,r),A.P(s.d,s.Q,B.j,r,r,A.V(r,r,s.f,r,r,r,r,r,r,r,r,s.w,r,r,s.y,r,r,!0,r,r,r,r,r,r,r,r),B.D,r)],t.p),s.as,B.k,B.M)}}
@@ -41720,7 +41720,7 @@ return new A.bJ(new A.J(0,0,0,s.z),A.ag(A.a([A.S(A.P(s.c,s.Q,B.j,r,r,A.V(r,r,s.e
 A.yk.prototype={
 ad(){return new A.Sa()}}
 A.Sa.prototype={
-L(a){var s,r,q=null,p=4289703855,o=4278853713,n="Alert via Telegram",m="assets/web_icons/down_side.svg",l=t.p,k=A.ag(A.a([A.S(B.YP,1),A.u(q,q,20),A.cL(B.m,10,B.m,16,B.C,55,new A.alK(),"Preferences",135)],l),B.l,B.k,B.o),j=A.ak(q,q,B.p,B.m,q,q,q,1,q,new A.J(0,20,0,60),q,q,q,1/0),i=A.ag(A.a([A.S(A.n0(B.L,20,"Get notified when a top developer launches a new token.",A.W(p),20,2,B.f,"Developer Alerts",B.d,22,B.a6),1),A.u(q,q,20),A.S(A.n0(B.L,20,"Set alerts for new tokens based on specific criteria.",A.W(p),20,2,B.f,"Token Launch Alerts",B.d,22,B.a6),1),A.u(q,q,20),A.S(A.n0(B.L,20,"Stay ahead of market trends with real-time alerts.",A.W(p),20,2,B.f,"Market Trend Alerts",B.d,22,B.a6),1)],l),B.l,B.k,B.o),h=A.u(q,40,q),g=A.W(o),f=A.aP(20),e=A.bg(B.m,1)
+L(a){var s,r,q=null,p=4289703855,o=4278853713,n="Alert via Telegram",m="assets/web_icons/down_side.svg",l=t.p,k=A.ag(A.a([A.S(B.YP,1),A.u(q,q,20),A.cL(B.m,10,B.m,16,B.C,55,new A.alK(),"Preferences",135)],l),B.l,B.k,B.o),j=A.ak(q,q,B.p,B.m,q,q,q,1,q,new A.J(0,20,0,60),q,q,q,1/0),i=A.ag(A.a([A.S(A.n0(B.K,20,"Get notified when a top developer launches a new token.",A.W(p),20,2,B.f,"Developer Alerts",B.d,22,B.a6),1),A.u(q,q,20),A.S(A.n0(B.K,20,"Set alerts for new tokens based on specific criteria.",A.W(p),20,2,B.f,"Token Launch Alerts",B.d,22,B.a6),1),A.u(q,q,20),A.S(A.n0(B.K,20,"Stay ahead of market trends with real-time alerts.",A.W(p),20,2,B.f,"Market Trend Alerts",B.d,22,B.a6),1)],l),B.l,B.k,B.o),h=A.u(q,40,q),g=A.W(o),f=A.aP(20),e=A.bg(B.m,1)
 f=A.S(A.ak(q,A.b_(A.a([new A.iE(n,!0,q),A.u(q,16,q),new A.iE(n,!1,q),A.u(q,16,q),new A.iE(n,!0,q)],l),B.l,B.dX,B.o),B.p,q,q,new A.at(g,q,e,f,q,q,q,B.w),q,250,q,new A.J(0,0,20,0),new A.J(38,40,38,40),q,q,1/0),1)
 e=A.W(o)
 g=A.aP(20)
@@ -41913,7 +41913,7 @@ A.zq.prototype={
 ad(){return new A.TM(new A.hT(B.bK,$.au()))}}
 A.TM.prototype={
 L(a3){var s,r,q,p,o,n,m,l,k,j=null,i=4278194487,h="Alias",g="6qAb456\u2026",f="09",e="$60,000",d="Raydium",c=4278853713,b="assets/web_icons/raydium.svg",a=A.W(i),a0=A.aP(20),a1=A.bg(B.m,1),a2=t.p
-a0=A.ak(j,A.b_(A.a([B.AJ,A.u(j,30,j),A.ayU(g,e,!0,!1,!1,h,f),A.ayU(g,e,!1,!1,!0,h,f),A.ayU(g,e,!1,!0,!1,h,f)],a2),B.L,B.k,B.o),B.p,j,j,new A.at(a,j,a1,a0,j,j,j,B.w),j,j,j,new A.J(0,0,20,0),B.o3,j,j,500)
+a0=A.ak(j,A.b_(A.a([B.AJ,A.u(j,30,j),A.ayU(g,e,!0,!1,!1,h,f),A.ayU(g,e,!1,!1,!0,h,f),A.ayU(g,e,!1,!0,!1,h,f)],a2),B.K,B.k,B.o),B.p,j,j,new A.at(a,j,a1,a0,j,j,j,B.w),j,j,j,new A.J(0,0,20,0),B.o3,j,j,500)
 a1=A.a([B.Z3],a2)
 a=t.w
 if(A.bC(a3,j,a).w.a.a>=1400){s=A.aP(10)
@@ -41928,11 +41928,11 @@ q=A.bg(B.m,1)
 p=A.aR7(!0,!0,"Token Name","Platform","Liquidity Pool","Time  of Launch","24h Trading Volume","Developer  Wallet")
 n=J.fv(8,t.l7)
 for(m=0;m<8;++m)n[m]=new A.Cu("Apr 21, 8:04 AM","Doge","$53.16B","$13.16B",g,d,!1,(m&1)===0,j)
-s=A.ak(j,A.b_(A.a([p,A.S(A.o8(A.b_(n,B.l,B.k,B.o),j,B.a_,j,j,B.av),1)],a2),B.L,B.k,B.o),B.p,j,j,new A.at(s,j,q,r,j,j,j,B.w),j,630,j,new A.J(0,20,0,20),B.hx,j,j,1/0)
+s=A.ak(j,A.b_(A.a([p,A.S(A.o8(A.b_(n,B.l,B.k,B.o),j,B.a_,j,j,B.av),1)],a2),B.K,B.k,B.o),B.p,j,j,new A.at(s,j,q,r,j,j,j,B.w),j,630,j,new A.J(0,20,0,20),B.hx,j,j,1/0)
 r=A.W(c)
 q=A.aP(20)
 p=A.bg(B.m,1)
-q=A.S(A.ak(j,A.b_(A.a([B.iK,A.u(j,40,j),A.S(new A.yF(j),1)],a2),B.L,B.k,B.o),B.p,j,j,new A.at(r,j,p,q,j,j,j,B.w),j,380,j,new A.J(0,0,20,0),B.d4,j,j,1/0),1)
+q=A.S(A.ak(j,A.b_(A.a([B.iK,A.u(j,40,j),A.S(new A.yF(j),1)],a2),B.K,B.k,B.o),B.p,j,j,new A.at(r,j,p,q,j,j,j,B.w),j,380,j,new A.J(0,0,20,0),B.d4,j,j,1/0),1)
 p=A.W(c)
 r=A.aP(20)
 o=A.bg(B.m,1)
@@ -41940,7 +41940,7 @@ l=A.u(j,23,j)
 k=A.a([A.aGu(f,"4",b,"43",d,g)],a2)
 if(A.bC(a3,j,a).w.a.a>=1400)k.push(A.u(j,j,12))
 if(A.bC(a3,j,a).w.a.a>=1400)k.push(A.aGu(f,"4",b,"43",d,g))
-return A.ag(A.a([a0,A.S(A.b_(A.a([a1,s,A.ag(A.a([q,A.S(A.ak(j,A.b_(A.a([B.Z0,l,A.ag(k,B.l,B.k,B.o)],a2),B.L,B.k,B.o),B.p,j,j,new A.at(p,j,o,r,j,j,j,B.w),j,380,j,j,B.hx,j,j,1/0),1)],a2),B.l,B.k,B.o)],a2),B.l,B.k,B.o),1)],a2),B.L,B.k,B.o)}}
+return A.ag(A.a([a0,A.S(A.b_(A.a([a1,s,A.ag(A.a([q,A.S(A.ak(j,A.b_(A.a([B.Z0,l,A.ag(k,B.l,B.k,B.o)],a2),B.K,B.k,B.o),B.p,j,j,new A.at(p,j,o,r,j,j,j,B.w),j,380,j,j,B.hx,j,j,1/0),1)],a2),B.l,B.k,B.o)],a2),B.l,B.k,B.o),1)],a2),B.K,B.k,B.o)}}
 A.B7.prototype={
 ad(){return new A.VJ(A.a(["Newest First","Highest Liquidity First","DEX Platform","Raydium","Orca"],t.s))}}
 A.VJ.prototype={
@@ -41976,18 +41976,18 @@ r[q]=new A.uY("$MOONDOGE","$200k","Raydium","3xF...9Yz","4 seconds ago",!1,j===0
 i=A.W(l)
 g=A.aP(20)
 f=A.bg(B.m,1)
-g=A.S(A.ak(o,A.b_(A.a([B.iK,A.u(o,40,o),A.S(new A.tC(o),1)],e),B.L,B.kB,B.o),B.p,o,o,new A.at(i,o,f,g,o,o,o,B.w),o,380,o,new A.J(0,0,20,0),B.d4,o,o,1/0),1)
+g=A.S(A.ak(o,A.b_(A.a([B.iK,A.u(o,40,o),A.S(new A.tC(o),1)],e),B.K,B.kB,B.o),B.p,o,o,new A.at(i,o,f,g,o,o,o,B.w),o,380,o,new A.J(0,0,20,0),B.d4,o,o,1/0),1)
 f=A.W(l)
 i=A.aP(20)
 c=A.bg(B.m,1)
 s=A.ak(o,o,B.p,B.m,o,o,o,1,o,new A.J(0,40,0,0),o,o,o,1/0)
 r=J.fv(6,h)
 for(q=0;q<6;++q)r[q]=new A.bJ(B.IX,A.ag(A.a([new A.pI(1,B.f0,B.YR,o),new A.jA(10,o,o,o),new A.pI(1,B.f0,B.YQ,o),new A.jA(10,o,o,o),new A.pI(1,B.f0,B.YA,o)],e),B.l,B.k,B.o),o)
-i=A.S(A.ak(o,A.b_(A.a([B.iK,s,A.b_(r,B.l,B.k,B.o)],e),B.L,B.k,B.o),B.p,o,o,new A.at(f,o,c,i,o,o,o,B.w),o,380,o,new A.J(0,0,20,0),B.d4,o,o,1/0),1)
+i=A.S(A.ak(o,A.b_(A.a([B.iK,s,A.b_(r,B.l,B.k,B.o)],e),B.K,B.k,B.o),B.p,o,o,new A.at(f,o,c,i,o,o,o,B.w),o,380,o,new A.J(0,0,20,0),B.d4,o,o,1/0),1)
 h=A.W(l)
 f=A.aP(20)
 c=A.bg(B.m,1)
-return A.b_(A.a([B.YK,k,d,j,A.ag(A.a([g,i,A.S(A.ak(o,A.b_(A.a([B.iK,A.u(o,40,o),A.S(new A.tC(o),1)],e),B.L,B.kB,B.o),B.p,o,o,new A.at(h,o,c,f,o,o,o,B.w),o,380,o,new A.J(0,0,20,0),B.d4,o,o,1/0),1)],e),B.l,B.k,B.o),A.ag(A.a([B.fK,A.ag(A.a([B.fL,A.u(o,o,30),B.fJ],e),B.l,B.k,B.M)],e),B.l,B.bw,B.o)],e),B.l,B.k,B.o)}}
+return A.b_(A.a([B.YK,k,d,j,A.ag(A.a([g,i,A.S(A.ak(o,A.b_(A.a([B.iK,A.u(o,40,o),A.S(new A.tC(o),1)],e),B.K,B.kB,B.o),B.p,o,o,new A.at(h,o,c,f,o,o,o,B.w),o,380,o,new A.J(0,0,20,0),B.d4,o,o,1/0),1)],e),B.l,B.k,B.o),A.ag(A.a([B.fK,A.ag(A.a([B.fL,A.u(o,o,30),B.fJ],e),B.l,B.k,B.M)],e),B.l,B.bw,B.o)],e),B.l,B.k,B.o)}}
 A.aqo.prototype={
 $1(a){var s=this.a.f,r=A.a3(s).h("Y<1,e>")
 return A.T(new A.Y(s,new A.aqk(),r),!0,r.h("ap.E"))},
@@ -42040,7 +42040,7 @@ A.VQ.prototype={
 L(a){var s=null,r=A.u(s,s,20),q=this.e,p=B.m.bF(0.48),o=A.W(4278197054),n=t.p
 o=A.ag(A.a([B.AJ,r,new A.vm(new A.aqP(),q,new A.aqQ(this),A.ag(A.a([A.P("Filters",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.u(s,s,6),A.dL("assets/web_icons/filter.svg",new A.lb(B.d,B.cT,s,B.dJ))],n),B.l,B.k,B.M),new A.di(B.ay,new A.b3(p,1,B.F,-1)),o,s,t.zX)],n),B.l,B.bw,B.o)
 p=A.u(s,30,s)
-return A.b_(A.a([o,p,A.aDX(new A.Qu(A.bC(a,s,t.w).w.a.a>=1400?4:3,20,20,660),new A.aqR(),8,new A.J(0,0,0,70),new A.BM(s),!1,!0),A.ag(A.a([B.fK,A.ag(A.a([B.fL,A.u(s,s,30),B.fJ],n),B.l,B.k,B.M)],n),B.l,B.bw,B.o)],n),B.L,B.k,B.o)}}
+return A.b_(A.a([o,p,A.aDX(new A.Qu(A.bC(a,s,t.w).w.a.a>=1400?4:3,20,20,660),new A.aqR(),8,new A.J(0,0,0,70),new A.BM(s),!1,!0),A.ag(A.a([B.fK,A.ag(A.a([B.fL,A.u(s,s,30),B.fJ],n),B.l,B.k,B.M)],n),B.l,B.bw,B.o)],n),B.K,B.k,B.o)}}
 A.aqQ.prototype={
 $1(a){var s=this.a
 s.a6(new A.aqO(s,a))},
@@ -42097,15 +42097,15 @@ o=A.bg(B.m,1)
 l=A.aNS(!0,!0,"Market Cap","Token Name","Liquidity Pool","Trading Volume (24h)")
 i=J.fv(8,t.l7)
 for(h=0;h<8;++h)i[h]=new A.zv("Doge","$53.16B","$13.16B","$13.16B",!1,(h&1)===0,f)
-c=A.ak(f,A.b_(A.a([l,A.S(A.o8(A.b_(i,B.l,B.k,B.o),f,B.a_,f,f,B.av),1)],q),B.L,B.k,B.o),B.p,f,f,new A.at(c,f,o,p,f,f,f,B.w),f,555,f,new A.J(0,20,0,20),B.hx,f,f,1/0)
+c=A.ak(f,A.b_(A.a([l,A.S(A.o8(A.b_(i,B.l,B.k,B.o),f,B.a_,f,f,B.av),1)],q),B.K,B.k,B.o),B.p,f,f,new A.at(c,f,o,p,f,f,f,B.w),f,555,f,new A.J(0,20,0,20),B.hx,f,f,1/0)
 a0=A.W(d)
 a1=A.aP(20)
 a2=A.bg(B.m,1)
-a1=A.S(A.ak(f,A.b_(A.a([B.Yw,A.u(f,40,f),A.S(new A.DB(f),1)],q),B.L,B.k,B.o),B.p,f,f,new A.at(a0,f,a2,a1,f,f,f,B.w),f,414,f,new A.J(0,0,20,0),B.hx,f,f,1/0),1)
+a1=A.S(A.ak(f,A.b_(A.a([B.Yw,A.u(f,40,f),A.S(new A.DB(f),1)],q),B.K,B.k,B.o),B.p,f,f,new A.at(a0,f,a2,a1,f,f,f,B.w),f,414,f,new A.J(0,0,20,0),B.hx,f,f,1/0),1)
 a2=A.W(d)
 a0=A.aP(20)
 a3=A.bg(B.m,1)
-return A.aD0(A.ag(A.a([b,A.S(A.b_(A.a([a,c,A.ag(A.a([a1,A.S(A.ak(f,A.b_(A.a([B.Yz,A.u(f,40,f),A.S(new A.By(f),1)],q),B.L,B.k,B.o),B.p,f,f,new A.at(a2,f,a3,a0,f,f,f,B.w),f,414,f,new A.J(0,0,20,0),B.J5,f,f,1/0),1)],q),B.l,B.k,B.o)],q),B.l,B.k,B.o),1)],q),B.L,B.k,B.o),3)}}
+return A.aD0(A.ag(A.a([b,A.S(A.b_(A.a([a,c,A.ag(A.a([a1,A.S(A.ak(f,A.b_(A.a([B.Yz,A.u(f,40,f),A.S(new A.By(f),1)],q),B.K,B.k,B.o),B.p,f,f,new A.at(a2,f,a3,a0,f,f,f,B.w),f,414,f,new A.J(0,0,20,0),B.J5,f,f,1/0),1)],q),B.l,B.k,B.o)],q),B.l,B.k,B.o),1)],q),B.K,B.k,B.o),3)}}
 A.arX.prototype={
 $1(a){var s=this.a
 s.a6(new A.arW(s,a))},
@@ -42139,7 +42139,7 @@ A.CZ.prototype={
 ad(){return new A.Y3()}}
 A.Y3.prototype={
 L(a5){var s=null,r=4278853713,q="assets/web_icons/waring.png",p="assets/web_icons/cross.png",o="assets/web_icons/m4.png",n=4294895104,m=A.W(r),l=A.aP(20),k=A.bg(B.m,1),j=A.ak(s,s,B.p,B.m,s,s,s,1,s,B.IZ,s,s,s,1/0),i=A.iv(30,"MOONDOGE (0x8fC3A...678)",B.d,16,2,B.f,B.at,"Token Name &\nContract Address",B.d,16,2,B.f),h=A.iv(30,"$250,000",B.d,16,2,B.f,B.at,"Total Liquidity Added",B.d,16,2,B.f),g=A.iv(30,"3xF9Yz...123\xa0(\ud83d\udd0d View Wallet Activity)",B.d,16,2,B.f,B.at,"Liquidity Provider Wallet",B.d,16,2,B.f),f=A.iv(30,"Raydium",B.d,16,2,B.f,B.at,"DEX / Trading Platform",B.d,16,2,B.f),e=A.iv(30,"43 seconds ago",B.d,16,2,B.f,B.at,"Time Since LP Added",B.d,16,2,B.f),d=t.p,c=A.ag(A.a([A.S(A.P("Proceed to Snipe",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.cp(B.ah,B.ah,42,"assets/web_icons/rocket.png",24,!0,s,42)],d),B.l,B.k,B.o),b=A.ag(A.a([A.S(A.P("Set Alert for LP Changes",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.cp(B.m,B.m,42,"assets/web_icons/bell.png",24,!0,s,42)],d),B.l,B.k,B.o),a=A.ag(A.a([A.S(A.P("Flag Token as Suspicious",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.cp(B.P,B.P,42,"assets/web_icons/infos.png",24,!0,s,42)],d),B.l,B.k,B.o),a0=A.u(new A.DI(s),300,s),a1=A.u(s,50,s),a2=A.W(r),a3=A.aP(10),a4=A.bg(B.m,1)
-l=A.ak(s,A.b_(A.a([B.Yy,j,i,h,g,f,e,new A.bJ(B.jV,c,s),new A.bJ(B.jV,b,s),new A.bJ(B.jV,a,s),a0,a1,A.ak(s,A.b_(A.a([A.ak(s,A.bD(A.ag(A.a([A.cK(q,s,30,27),A.u(s,s,16),A.S(A.P("Warning",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.C,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.cK(p,s,30,27)],d),B.l,B.k,B.o),s,s),B.p,s,s,new A.at(B.P,s,s,new A.cm(new A.av(10,10),new A.av(10,10),B.E,B.E),s,s,s,B.w),s,74,s,s,new A.J(16,0,16,0),s,s,1/0),A.S(new A.bJ(B.dP,new A.d8(B.br,s,s,A.P("Trading this token is extremely risky. Proceed with caution.",2,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s),1)],d),B.l,B.k,B.o),B.p,s,s,new A.at(a2,s,a4,a3,s,s,s,B.w),s,220,s,s,s,s,s,1/0)],d),B.L,B.k,B.o),B.p,s,s,new A.at(m,s,k,l,s,s,s,B.w),s,s,s,new A.J(0,0,20,0),new A.J(28,50,28,50),s,s,590)
+l=A.ak(s,A.b_(A.a([B.Yy,j,i,h,g,f,e,new A.bJ(B.jV,c,s),new A.bJ(B.jV,b,s),new A.bJ(B.jV,a,s),a0,a1,A.ak(s,A.b_(A.a([A.ak(s,A.bD(A.ag(A.a([A.cK(q,s,30,27),A.u(s,s,16),A.S(A.P("Warning",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.C,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.cK(p,s,30,27)],d),B.l,B.k,B.o),s,s),B.p,s,s,new A.at(B.P,s,s,new A.cm(new A.av(10,10),new A.av(10,10),B.E,B.E),s,s,s,B.w),s,74,s,s,new A.J(16,0,16,0),s,s,1/0),A.S(new A.bJ(B.dP,new A.d8(B.br,s,s,A.P("Trading this token is extremely risky. Proceed with caution.",2,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s),1)],d),B.l,B.k,B.o),B.p,s,s,new A.at(a2,s,a4,a3,s,s,s,B.w),s,220,s,s,s,s,s,1/0)],d),B.K,B.k,B.o),B.p,s,s,new A.at(m,s,k,l,s,s,s,B.w),s,s,s,new A.J(0,0,20,0),new A.J(28,50,28,50),s,s,590)
 k=A.W(r)
 m=A.aP(20)
 a3=A.bg(B.m,1)
@@ -42154,29 +42154,29 @@ e=A.u(s,30,s)
 f=A.ag(A.a([A.cp(B.P,B.P,28,"assets/web_icons/dollar.png",16,!0,s,28),A.u(s,s,10),A.S(A.P("Is Liquidity Locked?",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.S(A.P("NO (LP Can Be Pulled Anytime)",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),B.at,s),1),A.u(s,s,40),A.cK("assets/web_icons/m6.png",s,27,50)],d),B.l,B.k,B.o)
 g=A.u(s,30,s)
 h=A.W(n)
-m=A.ak(s,A.b_(A.a([a4,a2,a1,a0,a,b,c,e,f,g,A.ag(A.a([A.cp(A.W(n),h,28,"assets/web_icons/waring1.png",16,!0,s,28),A.u(s,s,10),A.S(A.P("Known Scammer Wallet?",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.S(A.P("NO (Not on blacklist)",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),B.at,s),1),A.u(s,s,40),A.cK("assets/web_icons/m5.png",s,27,50)],d),B.l,B.k,B.o),A.u(s,30,s),A.ag(A.a([A.cp(B.P,B.P,28,q,16,!0,s,28),A.u(s,s,10),A.S(A.P("Suspicious Liquidity Behavior?",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.S(A.P("YES (90% LP Owned by Creator)",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),B.at,s),1),A.u(s,s,40),A.cK(o,s,27,50)],d),B.l,B.k,B.o)],d),B.L,B.bw,B.o),B.p,s,s,new A.at(k,s,a3,m,s,s,s,B.w),s,s,s,s,new A.J(28,50,28,50),s,s,1/0)
+m=A.ak(s,A.b_(A.a([a4,a2,a1,a0,a,b,c,e,f,g,A.ag(A.a([A.cp(A.W(n),h,28,"assets/web_icons/waring1.png",16,!0,s,28),A.u(s,s,10),A.S(A.P("Known Scammer Wallet?",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.S(A.P("NO (Not on blacklist)",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),B.at,s),1),A.u(s,s,40),A.cK("assets/web_icons/m5.png",s,27,50)],d),B.l,B.k,B.o),A.u(s,30,s),A.ag(A.a([A.cp(B.P,B.P,28,q,16,!0,s,28),A.u(s,s,10),A.S(A.P("Suspicious Liquidity Behavior?",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.S(A.P("YES (90% LP Owned by Creator)",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),B.at,s),1),A.u(s,s,40),A.cK(o,s,27,50)],d),B.l,B.k,B.o)],d),B.K,B.bw,B.o),B.p,s,s,new A.at(k,s,a3,m,s,s,s,B.w),s,s,s,s,new A.J(28,50,28,50),s,s,1/0)
 a3=A.W(r)
 k=A.aP(20)
 h=A.bg(B.m,1)
 g=A.P("Understanding the Risk Score",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,22,s,s,B.a6,s,s,!0,s,s,s,s,s,s,s,s),s,s)
 f=A.ak(s,s,B.p,B.m,s,s,s,1,s,B.J0,s,s,s,1/0)
-e=A.ag(A.a([A.S(A.n0(B.L,12,"Contract renounced, LP locked, and no high tax.",B.d,16,1,B.f,"Low Risk",B.d,16,B.C),1),A.u(s,s,10),A.S(A.ag(A.a([new A.hw(1,B.cg,A.P("Good for sniping",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.u(s,s,12),A.cp(B.ah,B.ah,42,"assets/web_icons/m1.png",24,!0,s,42)],d),B.l,B.bV,B.o),1)],d),B.l,B.k,B.o)
+e=A.ag(A.a([A.S(A.n0(B.K,12,"Contract renounced, LP locked, and no high tax.",B.d,16,1,B.f,"Low Risk",B.d,16,B.C),1),A.u(s,s,10),A.S(A.ag(A.a([new A.hw(1,B.cg,A.P("Good for sniping",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.u(s,s,12),A.cp(B.ah,B.ah,42,"assets/web_icons/m1.png",24,!0,s,42)],d),B.l,B.bV,B.o),1)],d),B.l,B.k,B.o)
 c=A.ak(s,s,B.p,B.m,s,s,s,1,s,B.o1,s,s,s,1/0)
-b=A.S(A.n0(B.L,12,"LP unlocked, but contract is renounced.",B.d,16,1,B.f,"Medium Risk",B.d,16,B.C),1)
+b=A.S(A.n0(B.K,12,"LP unlocked, but contract is renounced.",B.d,16,1,B.f,"Medium Risk",B.d,16,B.C),1)
 a=A.u(s,s,10)
 a0=A.P("Could be risky",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s)
 a1=A.u(s,s,12)
 a2=A.W(n)
-k=A.ak(s,A.b_(A.a([g,f,e,c,A.ag(A.a([b,a,A.S(A.ag(A.a([new A.hw(1,B.cg,a0,s),a1,A.cp(A.W(n),a2,42,"assets/web_icons/m2.png",24,!0,s,42)],d),B.l,B.bV,B.o),1)],d),B.l,B.k,B.o),A.ak(s,s,B.p,B.m,s,s,s,1,s,B.o1,s,s,s,1/0),A.ag(A.a([A.S(A.n0(B.L,12,"LP unlocked, high tax, dev holds majority of  tokens.",B.d,16,1,B.f,"High Risk",B.d,16,B.C),1),A.u(s,s,10),A.S(A.ag(A.a([new A.hw(1,B.cg,A.P("Likely  scam/rug",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.u(s,s,12),A.cp(B.P,B.P,42,"assets/web_icons/m3.png",24,!0,s,42)],d),B.l,B.bV,B.o),1)],d),B.l,B.k,B.o)],d),B.L,B.bw,B.o),B.p,s,s,new A.at(a3,s,h,k,s,s,s,B.w),s,490,s,new A.J(0,20,0,20),new A.J(28,50,28,50),s,s,1/0)
+k=A.ak(s,A.b_(A.a([g,f,e,c,A.ag(A.a([b,a,A.S(A.ag(A.a([new A.hw(1,B.cg,a0,s),a1,A.cp(A.W(n),a2,42,"assets/web_icons/m2.png",24,!0,s,42)],d),B.l,B.bV,B.o),1)],d),B.l,B.k,B.o),A.ak(s,s,B.p,B.m,s,s,s,1,s,B.o1,s,s,s,1/0),A.ag(A.a([A.S(A.n0(B.K,12,"LP unlocked, high tax, dev holds majority of  tokens.",B.d,16,1,B.f,"High Risk",B.d,16,B.C),1),A.u(s,s,10),A.S(A.ag(A.a([new A.hw(1,B.cg,A.P("Likely  scam/rug",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,16,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),A.u(s,s,12),A.cp(B.P,B.P,42,"assets/web_icons/m3.png",24,!0,s,42)],d),B.l,B.bV,B.o),1)],d),B.l,B.k,B.o)],d),B.K,B.bw,B.o),B.p,s,s,new A.at(a3,s,h,k,s,s,s,B.w),s,490,s,new A.J(0,20,0,20),new A.J(28,50,28,50),s,s,1/0)
 h=A.W(r)
 a3=A.aP(20)
 a2=A.bg(B.m,1)
-return A.ag(A.a([l,A.S(A.b_(A.a([m,k,A.ak(s,A.b_(A.a([A.ak(s,A.bD(A.ag(A.a([A.cK(q,s,30,27),A.u(s,s,16),A.S(A.P("Warning",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.C,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.cK(p,s,30,27)],d),B.l,B.k,B.o),s,s),B.p,s,s,new A.at(B.P,s,s,new A.cm(new A.av(10,10),new A.av(10,10),B.E,B.E),s,s,s,B.w),s,74,s,s,new A.J(16,0,16,0),s,s,1/0),A.S(new A.bJ(B.dP,new A.d8(B.br,s,s,A.P("Warning! This token has signs of a potential rug pull. Trade with caution.",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s),1)],d),B.l,B.k,B.o),B.p,s,s,new A.at(h,s,a2,a3,s,s,s,B.w),s,164,s,s,s,s,s,1/0)],d),B.l,B.k,B.o),1)],d),B.L,B.k,B.o)}}
+return A.ag(A.a([l,A.S(A.b_(A.a([m,k,A.ak(s,A.b_(A.a([A.ak(s,A.bD(A.ag(A.a([A.cK(q,s,30,27),A.u(s,s,16),A.S(A.P("Warning",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.C,s,s,!0,s,s,s,s,s,s,s,s),s,s),1),A.u(s,s,10),A.cK(p,s,30,27)],d),B.l,B.k,B.o),s,s),B.p,s,s,new A.at(B.P,s,s,new A.cm(new A.av(10,10),new A.av(10,10),B.E,B.E),s,s,s,B.w),s,74,s,s,new A.J(16,0,16,0),s,s,1/0),A.S(new A.bJ(B.dP,new A.d8(B.br,s,s,A.P("Warning! This token has signs of a potential rug pull. Trade with caution.",1,B.j,s,s,A.V(s,s,B.d,s,s,s,s,s,s,s,s,20,s,s,B.f,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s),1)],d),B.l,B.k,B.o),B.p,s,s,new A.at(h,s,a2,a3,s,s,s,B.w),s,164,s,s,s,s,s,1/0)],d),B.l,B.k,B.o),1)],d),B.K,B.k,B.o)}}
 A.Dj.prototype={
 ad(){return new A.Yq(new A.hT(B.bK,$.au()))}}
 A.Yq.prototype={
 L(a){var s,r,q,p,o,n,m=this,l=null,k=A.u(l,60,l),j=A.aP(100),i=A.cL(B.m,100,B.m,16,B.f,65,new A.atM(),"Search",190),h=A.aP(100),g=A.aP(100),f=t.p
-j=A.a([B.Z5,k,A.ag(A.a([A.ak(l,A.bD(A.aAc(!0,B.d8,!1,l,!0,B.W,l,A.aJr(),m.d,l,l,l,l,l,2,A.a90(l,new A.e9(4,h,B.v),l,B.Ja,l,l,l,l,!0,new A.e9(4,A.aP(100),B.v),l,l,l,l,l,B.d,!0,l,l,l,l,new A.e9(4,g,B.v),l,l,l,l,l,l,l,B.VJ,"Search by Developer Wallet / ENS / Token Name",l,l,l,l,l,l,l,l,l,!0,l,l,l,B.h0,l,l,l,l,new A.bJ(B.IS,i,l),l,l,l,l),B.a_,!0,l,!0,l,!1,l,B.dv,l,l,l,l,l,l,l,1,l,l,!1,"\u2022",l,new A.atN(m),l,l,l,!1,l,l,!1,l,!0,l,B.d4,l,l,B.cU,B.cx,l,l,l,l,l,l,B.Wv,!0,B.aa,l,B.lA,l,B.lD,l,l),l,l),B.p,l,l,new A.at(B.d,l,l,j,l,l,l,B.w),l,80,l,l,l,l,l,680),A.u(l,l,30),new A.hA(new A.atO(m),A.ag(A.a([A.P("Filters",1,B.j,l,l,A.V(l,l,B.d,l,l,l,l,l,l,l,l,16,l,l,B.f,l,l,!0,l,l,l,l,l,l,l,l),l,l),A.u(l,l,6),A.dL("assets/web_icons/filter.svg",new A.lb(B.d,B.cT,l,B.dJ))],f),B.l,B.k,B.o),l)],f),B.l,B.k,B.M)],f)
+j=A.a([B.Z5,k,A.ag(A.a([A.ak(l,A.bD(A.aAc(!0,B.d8,!1,l,!0,B.W,l,A.aJr(),m.d,l,l,l,l,l,2,A.a90(l,new A.e9(4,h,B.v),l,B.Ja,l,l,l,l,!0,new A.e9(4,A.aP(100),B.v),l,l,l,l,l,B.d,!0,l,l,l,l,new A.e9(4,g,B.v),l,l,l,l,l,l,l,B.VK,"Search by Developer Wallet / ENS / Token Name",l,l,l,l,l,l,l,l,l,!0,l,l,l,B.h0,l,l,l,l,new A.bJ(B.IS,i,l),l,l,l,l),B.a_,!0,l,!0,l,!1,l,B.dv,l,l,l,l,l,l,l,1,l,l,!1,"\u2022",l,new A.atN(m),l,l,l,!1,l,l,!1,l,!0,l,B.d4,l,l,B.cU,B.cx,l,l,l,l,l,l,B.Ww,!0,B.aa,l,B.lA,l,B.lD,l,l),l,l),B.p,l,l,new A.at(B.d,l,l,j,l,l,l,B.w),l,80,l,l,l,l,l,680),A.u(l,l,30),new A.hA(new A.atO(m),A.ag(A.a([A.P("Filters",1,B.j,l,l,A.V(l,l,B.d,l,l,l,l,l,l,l,l,16,l,l,B.f,l,l,!0,l,l,l,l,l,l,l,l),l,l),A.u(l,l,6),A.dL("assets/web_icons/filter.svg",new A.lb(B.d,B.cT,l,B.dJ))],f),B.l,B.k,B.o),l)],f),B.l,B.k,B.M)],f)
 if(m.e){k=A.W(4278197054)
 i=A.aP(40)
 h=A.bg(B.m,1)
@@ -42274,15 +42274,15 @@ j=A.a3(k).h("Y<1,ie<j>>")
 j=A.T(new A.Y(k,new A.aud(h),j),!0,j.h("ap.E"))
 k=h.z
 i=A.aP(7)
-a1=A.S(A.ak(g,A.b_(A.a([B.YZ,a3,a4,a5,a6,b0,b1,a9,s,A.ak(g,new A.iG(m,new A.la(A.LR(B.eu,A.LU(new A.at(A.W(e),g,A.bg(B.m,1),i,g,g,g,B.w),1,200,B.fk,new A.kx(new A.bs(!0,q),new A.bs(2,r),g,g,B.cm,g,g,g,g,g,g)),l,!0,j,B.fj,new A.aue(h),new A.auf(h),k,p),g),g),B.p,g,g,new A.at(o,g,n,a8,g,g,g,B.w),g,58,g,B.J_,g,g,g,1/0),new A.iE("SMS",!1,g),A.u(g,16,g),new A.iE("Email",!1,g)],a7),B.L,B.k,B.o),B.p,g,g,new A.at(a0,g,a2,a1,g,g,g,B.w),g,670,g,new A.J(0,0,20,0),new A.J(26,40,26,40),g,g,1/0),1)
+a1=A.S(A.ak(g,A.b_(A.a([B.YZ,a3,a4,a5,a6,b0,b1,a9,s,A.ak(g,new A.iG(m,new A.la(A.LR(B.eu,A.LU(new A.at(A.W(e),g,A.bg(B.m,1),i,g,g,g,B.w),1,200,B.fk,new A.kx(new A.bs(!0,q),new A.bs(2,r),g,g,B.cm,g,g,g,g,g,g)),l,!0,j,B.fj,new A.aue(h),new A.auf(h),k,p),g),g),B.p,g,g,new A.at(o,g,n,a8,g,g,g,B.w),g,58,g,B.J_,g,g,g,1/0),new A.iE("SMS",!1,g),A.u(g,16,g),new A.iE("Email",!1,g)],a7),B.K,B.k,B.o),B.p,g,g,new A.at(a0,g,a2,a1,g,g,g,B.w),g,670,g,new A.J(0,0,20,0),new A.J(26,40,26,40),g,g,1/0),1)
 a2=A.W(f)
 a0=A.aP(20)
 a8=A.bg(B.m,1)
-a0=A.S(A.ak(g,A.b_(A.a([B.Z4,A.u(g,24,g),B.Yx,A.u(g,24,g),A.Eq("Enter Helius API Key",h.e,g),A.cL(B.m,10,B.m,16,B.C,58,new A.aug(),"Save",1/0),A.u(g,24,g),A.Eq("Set Webhook URL for Live Token Data",h.f,g),A.cL(B.m,10,B.m,16,B.C,58,new A.auh(),"Save",1/0)],a7),B.L,B.k,B.o),B.p,g,g,new A.at(a2,g,a8,a0,g,g,g,B.w),g,670,g,new A.J(0,0,20,0),new A.J(26,40,26,40),g,g,1/0),1)
+a0=A.S(A.ak(g,A.b_(A.a([B.Z4,A.u(g,24,g),B.Yx,A.u(g,24,g),A.Eq("Enter Helius API Key",h.e,g),A.cL(B.m,10,B.m,16,B.C,58,new A.aug(),"Save",1/0),A.u(g,24,g),A.Eq("Set Webhook URL for Live Token Data",h.f,g),A.cL(B.m,10,B.m,16,B.C,58,new A.auh(),"Save",1/0)],a7),B.K,B.k,B.o),B.p,g,g,new A.at(a2,g,a8,a0,g,g,g,B.w),g,670,g,new A.J(0,0,20,0),new A.J(26,40,26,40),g,g,1/0),1)
 a8=A.W(f)
 a2=A.aP(20)
 n=A.bg(B.m,1)
-return A.b_(A.a([A.ag(A.a([a1,a0,A.S(A.ak(g,A.b_(A.a([B.YE,A.u(g,24,g),B.YU,A.u(g,24,g),A.Eq("Connect to NovaBot for Auto-Sniping",h.r,g),A.cL(B.m,10,B.m,16,B.C,58,new A.aui(),a,1/0),A.u(g,24,g),A.Eq("Connect to Phantom Wallet",h.w,g),A.cL(B.m,10,B.m,16,B.C,58,new A.auj(),a,1/0),A.u(g,24,g),A.Eq("Connect to Solflare Wallet",h.x,g),A.cL(B.m,10,B.m,16,B.C,58,new A.auk(),a,1/0)],a7),B.L,B.k,B.o),B.p,g,g,new A.at(a8,g,n,a2,g,g,g,B.w),g,670,g,new A.J(0,0,60,0),new A.J(26,40,26,40),g,g,1/0),1)],a7),B.l,B.k,B.o),A.u(g,120,g),A.ag(A.a([B.fK,A.ag(A.a([B.fL,A.u(g,g,30),B.fJ],a7),B.l,B.k,B.M)],a7),B.l,B.bw,B.o)],a7),B.l,B.k,B.o)}}
+return A.b_(A.a([A.ag(A.a([a1,a0,A.S(A.ak(g,A.b_(A.a([B.YD,A.u(g,24,g),B.YU,A.u(g,24,g),A.Eq("Connect to NovaBot for Auto-Sniping",h.r,g),A.cL(B.m,10,B.m,16,B.C,58,new A.aui(),a,1/0),A.u(g,24,g),A.Eq("Connect to Phantom Wallet",h.w,g),A.cL(B.m,10,B.m,16,B.C,58,new A.auj(),a,1/0),A.u(g,24,g),A.Eq("Connect to Solflare Wallet",h.x,g),A.cL(B.m,10,B.m,16,B.C,58,new A.auk(),a,1/0)],a7),B.K,B.k,B.o),B.p,g,g,new A.at(a8,g,n,a2,g,g,g,B.w),g,670,g,new A.J(0,0,60,0),new A.J(26,40,26,40),g,g,1/0),1)],a7),B.l,B.k,B.o),A.u(g,120,g),A.ag(A.a([B.fK,A.ag(A.a([B.fL,A.u(g,g,30),B.fJ],a7),B.l,B.k,B.M)],a7),B.l,B.bw,B.o)],a7),B.l,B.k,B.o)}}
 A.auc.prototype={
 $1(a){var s=this.a.Q,r=A.a3(s).h("Y<1,e>")
 return A.T(new A.Y(s,new A.au8(),r),!0,r.h("ap.E"))},
@@ -42373,7 +42373,7 @@ s.f=s.r[0]
 s.a.toString
 s.e=!0
 s.aM()},
-L(a7){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="assets/web_icons/copy.png",d="assets/web_icons/raydium.png",c=A.W(4278853713),b=A.aP(20),a=A.bg(B.m,1),a0=t.p,a1=A.ag(A.a([A.cp(B.m,B.m,75,"assets/web_icons/logo5.svg",24,!1,f,75),A.u(f,f,18),A.S(A.b_(A.a([A.P(g.a.c,1,B.j,f,f,A.V(f,f,B.d,f,f,f,f,f,f,f,f,24,f,f,B.f,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.P(g.a.d,1,B.j,f,f,A.V(f,f,B.d.bF(0.65),f,f,f,f,f,f,f,f,16,f,f,B.f,f,f,!0,f,f,f,f,f,f,f,f),f,f)],a0),B.L,B.k,B.M),2),A.u(f,f,15),A.S(A.ag(A.a([A.S(A.P(g.a.e,1,B.j,f,f,A.V(f,f,B.d,f,f,f,f,f,f,f,f,16,f,f,B.f,f,f,!0,f,f,f,f,f,f,f,f),f,f),1),A.u(f,f,10),A.cK(e,f,22,22)],a0),B.l,B.k,B.M),1)],a0),B.l,B.k,B.o),a2=A.ak(f,f,B.p,B.d.bF(0.18),f,f,f,1,f,new A.J(0,24,0,14),f,f,f,1/0),a3=A.iv(14,g.a.f,B.d,16,1,B.f,B.at,"Liquidity Pool Size",B.d,16,1,B.f),a4=A.S(A.P("Platform",1,B.j,f,f,A.V(f,f,B.d,f,f,f,f,f,f,f,f,16,f,f,B.f,f,f,!0,f,f,f,f,f,f,f,f),f,f),1),a5=A.u(f,f,10),a6=A.bg(B.m,1)
+L(a7){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="assets/web_icons/copy.png",d="assets/web_icons/raydium.png",c=A.W(4278853713),b=A.aP(20),a=A.bg(B.m,1),a0=t.p,a1=A.ag(A.a([A.cp(B.m,B.m,75,"assets/web_icons/logo5.svg",24,!1,f,75),A.u(f,f,18),A.S(A.b_(A.a([A.P(g.a.c,1,B.j,f,f,A.V(f,f,B.d,f,f,f,f,f,f,f,f,24,f,f,B.f,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.P(g.a.d,1,B.j,f,f,A.V(f,f,B.d.bF(0.65),f,f,f,f,f,f,f,f,16,f,f,B.f,f,f,!0,f,f,f,f,f,f,f,f),f,f)],a0),B.K,B.k,B.M),2),A.u(f,f,15),A.S(A.ag(A.a([A.S(A.P(g.a.e,1,B.j,f,f,A.V(f,f,B.d,f,f,f,f,f,f,f,f,16,f,f,B.f,f,f,!0,f,f,f,f,f,f,f,f),f,f),1),A.u(f,f,10),A.cK(e,f,22,22)],a0),B.l,B.k,B.M),1)],a0),B.l,B.k,B.o),a2=A.ak(f,f,B.p,B.d.bF(0.18),f,f,f,1,f,new A.J(0,24,0,14),f,f,f,1/0),a3=A.iv(14,g.a.f,B.d,16,1,B.f,B.at,"Liquidity Pool Size",B.d,16,1,B.f),a4=A.S(A.P("Platform",1,B.j,f,f,A.V(f,f,B.d,f,f,f,f,f,f,f,f,16,f,f,B.f,f,f,!0,f,f,f,f,f,f,f,f),f,f),1),a5=A.u(f,f,10),a6=A.bg(B.m,1)
 a6=A.ak(f,A.bD(A.cK("assets/web_icons/med.png",f,f,f),f,f),B.p,f,f,new A.at(f,f,a6,f,f,f,f,B.aV),f,30,f,f,f,f,f,30)
 s=A.u(f,f,10)
 r=A.bg(B.m,1)
@@ -42411,7 +42411,7 @@ i=A.a3(j).h("Y<1,ie<j>>")
 i=A.T(new A.Y(j,new A.aqL(g),i),!0,i.h("ap.E"))
 j=g.f
 h=A.aP(6)
-return A.ak(f,A.bD(A.b_(A.a([a1,a2,a3,new A.bJ(new A.J(0,0,0,16),r,f),new A.bJ(new A.J(0,0,0,16),s,f),new A.bJ(new A.J(0,0,0,16),a4,f),new A.bJ(new A.J(0,0,0,16),q,f),new A.bJ(new A.J(0,0,0,16),o,f),new A.bJ(new A.J(0,0,0,16),a6,f),new A.bJ(new A.J(0,0,0,30),p,f),a5,A.ak(f,new A.iG(l,new A.la(A.LR(B.eu,A.LU(new A.at(B.u,f,A.bg(B.m,1),h,f,f,f,B.w),1,200,B.fk,new A.kx(new A.bs(!0,t.yg),new A.bs(2,t.YI),f,f,B.cm,f,f,f,f,f,f)),k,!0,i,B.fj,new A.aqM(g),new A.aqN(g),j,t.N),f),f),B.p,f,f,new A.at(B.u,f,m,n,f,f,f,B.w),f,55,f,B.IU,f,f,f,1/0)],a0),B.L,B.k,B.M),f,f),B.p,f,f,new A.at(c,f,a,b,f,f,f,B.w),f,f,f,f,new A.J(22,24,22,24),f,f,680)}}
+return A.ak(f,A.bD(A.b_(A.a([a1,a2,a3,new A.bJ(new A.J(0,0,0,16),r,f),new A.bJ(new A.J(0,0,0,16),s,f),new A.bJ(new A.J(0,0,0,16),a4,f),new A.bJ(new A.J(0,0,0,16),q,f),new A.bJ(new A.J(0,0,0,16),o,f),new A.bJ(new A.J(0,0,0,16),a6,f),new A.bJ(new A.J(0,0,0,30),p,f),a5,A.ak(f,new A.iG(l,new A.la(A.LR(B.eu,A.LU(new A.at(B.u,f,A.bg(B.m,1),h,f,f,f,B.w),1,200,B.fk,new A.kx(new A.bs(!0,t.yg),new A.bs(2,t.YI),f,f,B.cm,f,f,f,f,f,f)),k,!0,i,B.fj,new A.aqM(g),new A.aqN(g),j,t.N),f),f),B.p,f,f,new A.at(B.u,f,m,n,f,f,f,B.w),f,55,f,B.IU,f,f,f,1/0)],a0),B.K,B.k,B.M),f,f),B.p,f,f,new A.at(c,f,a,b,f,f,f,B.w),f,f,f,f,new A.J(22,24,22,24),f,f,680)}}
 A.aqF.prototype={
 $1(a){var s=this.a
 s.a6(new A.aqE(s,a))},
@@ -42505,7 +42505,7 @@ if(a.w)a=B.u
 else a=a.x?A.W(4278853713):A.W(4279842681)
 s=c.a
 r=s.w
-q=r?B.L:B.l
+q=r?B.K:B.l
 s=s.c
 p=r?2:1
 o=r?18:16
@@ -42679,7 +42679,7 @@ else n=n.r?"Low":"Moderate"
 m=t.p
 n=A.ag(A.a([r,q,A.S(A.ag(A.a([p,o,A.S(A.P(n,1,B.j,k,k,A.V(k,k,B.d.bF(0.45),k,k,k,k,k,k,k,k,16,k,k,B.f,k,k,!0,k,k,k,k,k,k,k,k),k,k),1)],m),B.l,B.k,B.o),1)],m),B.l,B.k,B.o)
 l.a.toString
-return A.ak(k,A.bD(A.b_(A.a([g,e,f,s,new A.bJ(new A.J(0,0,0,16),n,k),A.cL(B.m,6,B.m,16,B.f,36,k,"View Profile",110)],m),B.L,B.k,B.M),k,k),B.p,k,k,new A.at(j,k,h,i,k,k,k,B.w),k,k,k,new A.J(0,0,0,14),new A.J(26,36,26,36),k,k,450)}}
+return A.ak(k,A.bD(A.b_(A.a([g,e,f,s,new A.bJ(new A.J(0,0,0,16),n,k),A.cL(B.m,6,B.m,16,B.f,36,k,"View Profile",110)],m),B.K,B.k,B.M),k,k),B.p,k,k,new A.at(j,k,h,i,k,k,k,B.w),k,k,k,new A.J(0,0,0,14),new A.J(26,36,26,36),k,k,450)}}
 A.ao1.prototype={
 $1(a){var s=this.a
 s.a6(new A.ao0(s,a))},
@@ -42716,7 +42716,7 @@ if(a0)a0=A.S(A.P(a,1,B.j,b,b,A.V(b,b,B.d,b,b,b,b,b,b,b,b,16,b,b,B.a6,b,b,!0,b,b,
 else a0=A.S(A.bD(A.cL(B.m,6,B.m,16,B.f,36,b,a,110),b,b),1)
 return A.ak(b,A.bD(A.ag(A.a([r,q,p,o,n,m,l,k,i,h,g,f,e,d,a0],j),B.l,B.k,B.o),b,b),B.p,b,b,new A.at(s,b,b,b,b,b,b,B.w),b,70,b,new A.J(0,0,0,10),new A.J(20,0,20,0),b,b,1/0)}}
 A.Rw.prototype={
-L(a){var s,r,q,p,o=this,n=null,m=A.aP(20),l=t.p,k=A.ag(A.a([A.cp(B.d,B.d,60,o.c,24,!1,n,60),A.u(n,n,15),A.S(A.b_(A.a([A.P(o.d,1,B.j,n,n,A.V(n,n,B.d,n,n,n,n,n,n,n,n,16,n,n,B.f,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.P(o.e,1,B.j,n,n,A.V(n,n,B.d.bF(0.53),n,n,n,n,n,n,n,n,16,n,n,B.f,n,n,!0,n,n,n,n,n,n,n,n),n,n)],l),B.L,B.k,B.M),1)],l),B.l,B.k,B.o),j=A.W(4278853713),i=A.aP(12)
+L(a){var s,r,q,p,o=this,n=null,m=A.aP(20),l=t.p,k=A.ag(A.a([A.cp(B.d,B.d,60,o.c,24,!1,n,60),A.u(n,n,15),A.S(A.b_(A.a([A.P(o.d,1,B.j,n,n,A.V(n,n,B.d,n,n,n,n,n,n,n,n,16,n,n,B.f,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.P(o.e,1,B.j,n,n,A.V(n,n,B.d.bF(0.53),n,n,n,n,n,n,n,n,16,n,n,B.f,n,n,!0,n,n,n,n,n,n,n,n),n,n)],l),B.K,B.k,B.M),1)],l),B.l,B.k,B.o),j=A.W(4278853713),i=A.aP(12)
 i=A.ak(n,A.ag(A.a([A.S(A.n0(B.l,0,"Days",B.d,16,1,B.f,o.f,B.d,20,B.C),1),A.ak(n,n,B.p,B.d,n,n,n,45,n,new A.J(10,0,10,0),n,n,n,1),A.S(A.n0(B.l,0,"Hours",B.d,16,1,B.f,o.r,B.d,20,B.C),1),A.ak(n,n,B.p,B.d,n,n,n,45,n,new A.J(10,0,10,0),n,n,n,1),A.S(A.n0(B.l,0,"Mins",B.d,16,1,B.f,o.w,B.d,20,B.C),1)],l),B.l,B.k,B.o),B.p,n,n,new A.at(j,n,n,i,n,n,n,B.w),n,80,n,new A.J(0,20,0,20),new A.J(15,0,15,0),n,n,1/0)
 j=A.S(A.P("Launch in",1,B.j,n,n,A.V(n,n,B.d,n,n,n,n,n,n,n,n,16,n,n,B.f,n,n,!0,n,n,n,n,n,n,n,n),n,n),1)
 s=A.u(n,n,10)
@@ -42724,7 +42724,7 @@ r=A.bg(B.m,1)
 r=A.ak(n,A.bD(A.cK("assets/web_icons/med.png",n,n,n),n,n),B.p,n,n,new A.at(n,n,r,n,n,n,n,B.aV),n,30,n,n,n,n,n,30)
 q=A.u(n,n,10)
 p=A.bg(B.m,1)
-return A.S(new A.hA(n,A.ak(n,A.bD(A.b_(A.a([k,i,A.ag(A.a([j,s,r,q,A.ak(n,A.bD(A.cK("assets/web_icons/raydium.png",n,20,20),n,n),B.p,n,n,new A.at(n,n,p,n,n,n,n,B.aV),n,30,n,n,n,n,n,30)],l),B.l,B.k,B.o),A.u(n,10,n),A.ag(A.a([A.S(A.P("Set Alert",1,B.j,n,n,A.V(n,n,B.d,n,n,n,n,n,n,n,n,16,n,n,B.f,n,n,!0,n,n,n,n,n,n,n,n),n,n),1),A.u(n,n,10),A.cK("assets/web_icons/telegram.png",n,30,30),A.u(n,n,10),A.cK("assets/web_icons/gmail.png",n,27,27)],l),B.l,B.k,B.o)],l),B.L,B.k,B.M),n,n),B.p,n,n,new A.at(B.eF,n,n,m,n,n,n,B.w),n,290,n,n,new A.J(26,18,26,18),n,n,300),n),1)}}
+return A.S(new A.hA(n,A.ak(n,A.bD(A.b_(A.a([k,i,A.ag(A.a([j,s,r,q,A.ak(n,A.bD(A.cK("assets/web_icons/raydium.png",n,20,20),n,n),B.p,n,n,new A.at(n,n,p,n,n,n,n,B.aV),n,30,n,n,n,n,n,30)],l),B.l,B.k,B.o),A.u(n,10,n),A.ag(A.a([A.S(A.P("Set Alert",1,B.j,n,n,A.V(n,n,B.d,n,n,n,n,n,n,n,n,16,n,n,B.f,n,n,!0,n,n,n,n,n,n,n,n),n,n),1),A.u(n,n,10),A.cK("assets/web_icons/telegram.png",n,30,30),A.u(n,n,10),A.cK("assets/web_icons/gmail.png",n,27,27)],l),B.l,B.k,B.o)],l),B.K,B.k,B.M),n,n),B.p,n,n,new A.at(B.eF,n,n,m,n,n,n,B.w),n,290,n,n,new A.J(26,18,26,18),n,n,300),n),1)}}
 A.uq.prototype={
 ad(){return new A.UA()}}
 A.UA.prototype={
@@ -42790,7 +42790,7 @@ if(a5.y)a5=B.u
 else a5=a5.z?A.W(4278853713):A.W(4279842681)
 s=a3.a
 r=s.y
-q=r?B.L:B.l
+q=r?B.K:B.l
 s=s.c
 p=r?2:1
 o=r?18:16
@@ -43243,7 +43243,7 @@ j=f.f
 j===$&&A.b()
 j=new A.iG(k,A.aA3(A.aEt(j,B.eS,!0,!0),e,e,e,!0),e)
 k=j}p.push(new A.hw(1,B.cg,new A.bJ(B.aA,A.aA1(m,A.aF5(k,l)),e),e))
-return new A.e6(r,!1,A.ia(A.cc(e,e,new A.KQ(q,n,A.nD(B.ak,e,A.b_(p,B.l,B.k,B.M),B.p,e,0,e,e,e,e,s.mK,B.dZ),e),!1,e,e,!0,e,e,e,e,"Popup menu",e,e,!0,e,e,e,e,e,e,e,e,e,e,e,!0,e,e,e,e,e,e),e,e,o,B.K),e)}}
+return new A.e6(r,!1,A.ia(A.cc(e,e,new A.KQ(q,n,A.nD(B.ak,e,A.b_(p,B.l,B.k,B.M),B.p,e,0,e,e,e,e,s.mK,B.dZ),e),!1,e,e,!0,e,e,e,e,"Popup menu",e,e,!0,e,e,e,e,e,e,e,e,e,e,e,!0,e,e,e,e,e,e),e,e,o,B.L),e)}}
 A.Uh.prototype={
 ns(a){var s,r=this,q=r.e,p=Math.max(0,r.d-(q.gaY()+q.gb_())-48),o=r.b.dT.a
 if(o!=null&&o<=p)p=o
@@ -44067,7 +44067,7 @@ q=c.b
 if(n){a.h5(new A.h(o-r,m),new A.h(o+s,m),p)
 a.h5(new A.h(l-r,q),new A.h(l+s,q),p)}else{a.h5(new A.h(o,m-r),new A.h(o,m+s),p)
 a.h5(new A.h(l,q-r),new A.h(l,q+s),p)}},
-gbo(){return[B.d,1,8,0,!1,B.VH,B.ab]}}
+gbo(){return[B.d,1,8,0,!1,B.VI,B.ab]}}
 A.na.prototype={}
 A.SC.prototype={}
 A.SG.prototype={}
@@ -46305,7 +46305,7 @@ $S:394}
 A.Ty.prototype={}
 A.Tx.prototype={}
 A.a3X.prototype={
-rJ(a){return B.K},
+rJ(a){return B.L},
 yY(a,b,c,d){return B.aR},
 rI(a,b){return B.i}}
 A.a_Y.prototype={}
@@ -46726,7 +46726,7 @@ en(a){return!this.b.j(0,a.b)}}
 A.Lf.prototype={}
 A.a42.prototype={
 rJ(a){return new A.t(12,a+12-1.5)},
-yY(a,b,c,d){var s,r,q,p=null,o=A.ia(p,p,p,new A.TD(A.u7(a).gfk(),p),B.K)
+yY(a,b,c,d){var s,r,q,p=null,o=A.ia(p,p,p,new A.TD(A.u7(a).gfk(),p),B.L)
 switch(b.a){case 0:return A.DK(o,new A.t(12,c+12-1.5))
 case 1:s=c+12-1.5
 r=A.DK(o,new A.t(12,s))
@@ -47175,7 +47175,7 @@ p=q.f
 if(p==null){q=q.e
 q.toString
 q=A.aCU(a,q)}else q=p
-s=A.P(q,r,B.j,r,r,B.WC.cY(this.a.d!=null?B.ht.cw(a):B.eL),r,r)
+s=A.P(q,r,B.j,r,r,B.WD.cY(this.a.d!=null?B.ht.cw(a):B.eL),r,r)
 q=this.a.e
 switch(q==null?r:q.b){case B.hm:case B.hn:case B.ho:case B.hp:case B.nI:case B.jD:case B.jE:case B.hq:case B.jG:case null:case void 0:return s
 case B.jF:q=B.ht.cw(a)
@@ -47184,7 +47184,7 @@ p.sm3(B.fF)
 p.st6(B.lk)
 p.sc9(1)
 p.sca(B.ao)
-return A.u(A.ia(r,r,r,new A.VP(q,p,r),B.K),13,13)}}}
+return A.u(A.ia(r,r,r,new A.VP(q,p,r),B.L),13,13)}}}
 A.anF.prototype={
 $0(){return this.a.d=!0},
 $S:0}
@@ -50067,7 +50067,7 @@ a3=a1.d
 j=A.nD(i,a6,A.q9(!1,a6,k!=null,A.MQ(new A.bJ(p,A.bD(a1.dy,1,1),a6),new A.dh(a6,a6,a6,a6,a6,a9,a6,a6,a6)),b0,!0,a,g,b,d,q,f,e,a0,a3,a2,a6,a6,c,a6,a6),h,m,o,a6,l.id,b0,a6,n,j)
 switch(a1.fr.a){case 0:a4=new A.t(48+a8,48+a7)
 break
-case 1:a4=B.K
+case 1:a4=B.L
 break
 default:a4=a6}return A.cc(!0,a6,new A.Vp(a4,new A.ft(r,j,a6),a6),!0,a6,a2!=null,!1,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6,a6)}}
 A.Vp.prototype={
@@ -50096,7 +50096,7 @@ Mx(a,b){var s,r,q=this.t$
 if(q!=null){s=b.$2(q,a)
 q=s.a
 r=this.B
-return a.aT(new A.t(Math.max(q,r.a),Math.max(s.b,r.b)))}return B.K},
+return a.aT(new A.t(Math.max(q,r.a),Math.max(s.b,r.b)))}return B.L},
 cc(a){return this.Mx(a,A.fo())},
 dI(a,b){var s,r,q=this.t$
 if(q==null)return null
@@ -50335,7 +50335,7 @@ k=q.at
 if(k!=null)b2=A.aGn(b2,k)
 switch(b.a){case 0:b8=new A.t(48+c1,48+a9)
 break
-case 1:b8=B.K
+case 1:b8=B.L
 break
 default:b8=c0}c1=q.c
 s.toString
@@ -50479,7 +50479,7 @@ My(a,b){var s,r,q=this.t$
 if(q!=null){s=b.$2(q,a)
 q=s.a
 r=this.B
-return a.aT(new A.t(Math.max(q,r.a),Math.max(s.b,r.b)))}return B.K},
+return a.aT(new A.t(Math.max(q,r.a),Math.max(s.b,r.b)))}return B.L},
 cc(a){return this.My(a,A.fo())},
 dI(a,b){var s,r,q=this.t$
 if(q==null)return null
@@ -50850,7 +50850,7 @@ return s}}
 A.TP.prototype={}
 A.U1.prototype={}
 A.a4r.prototype={
-rJ(a){return B.K},
+rJ(a){return B.L},
 yY(a,b,c,d){return B.aR},
 rI(a,b){return B.i}}
 A.a_Z.prototype={}
@@ -52108,7 +52108,7 @@ m=k.x
 m===$&&A.b()
 l=k.w
 l===$&&A.b()
-return A.ia(null,new A.Vn(s,j,p,q,o,n,m,l,new A.t1(r)),null,null,B.K)}}
+return A.ia(null,new A.Vn(s,j,p,q,o,n,m,l,new A.t1(r)),null,null,B.L)}}
 A.G8.prototype={
 ad(){return new A.G9(null,null)}}
 A.G9.prototype={
@@ -52289,15 +52289,15 @@ Er(d2,d3,d4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a
 c7=c6.i(0,B.ad)
 s=c6.i(0,B.aO)
 r=c7==null
-q=r?B.K:d4.$2(c7,c9)
+q=r?B.L:d4.$2(c7,c9)
 c7=s==null
-p=c7?B.K:d4.$2(s,c9)
+p=c7?B.L:d4.$2(s,c9)
 s=c6.i(0,B.b3)
 o=c6.i(0,B.b4)
 n=s==null
-m=n?B.K:d4.$2(s,d0)
+m=n?B.L:d4.$2(s,d0)
 l=o==null
-k=l?B.K:d4.$2(o,d0)
+k=l?B.L:d4.$2(o,d0)
 j=m.a
 if(r)r=c2.q.a.a
 else{r=q.a
@@ -52329,9 +52329,9 @@ a=c5.mA(new A.J(0,j+r+c+b+new A.h(i.a,i.b).a9(0,4).b,0,0)).Bp(h)
 i=c6.i(0,B.aT)
 c6=c6.i(0,B.b2)
 r=i==null
-a0=r?B.K:d4.$2(i,a)
+a0=r?B.L:d4.$2(i,a)
 j=c6==null
-a1=j?B.K:d4.$2(c6,c5.Bp(h))
+a1=j?B.L:d4.$2(c6,c5.Bp(h))
 a2=r?0:d3.$2(i,a)
 a3=j?0:d3.$2(c6,c5.Bp(h))
 a4=Math.max(a1.b,a0.b)
@@ -53418,7 +53418,7 @@ $1(a){return new A.rs(t.RY.a(a),null)},
 $S:257}
 A.HI.prototype={
 L(a){var s=A.cU(a)
-return A.ia(this.c,new A.YH(this.d,s,null),null,null,B.K)}}
+return A.ia(this.c,new A.YH(this.d,s,null),null,null,B.L)}}
 A.YH.prototype={
 az(a,b){this.b.iw(a,new A.n(0,0,0+b.a,0+b.b),this.c)},
 en(a){return!a.b.j(0,this.b)}}
@@ -53815,11 +53815,11 @@ aE(a,b){b.B=this.e}}
 A.XN.prototype={
 cc(a){var s=this.t$
 s=s==null?null:s.ah(B.T,a,s.gcb())
-return s==null?B.K:s},
+return s==null?B.L:s},
 dI(a,b){var s=this.t$
 return s==null?null:s.fo(a,b)},
 bm(){var s,r=this,q=r.t$
-if(q==null)r.id=B.K
+if(q==null)r.id=B.L
 else{s=t.k
 q.bP(s.a(A.o.prototype.ga_.call(r)),!0)
 r.id=s.a(A.o.prototype.ga_.call(r)).aT(r.t$.gp())
@@ -54446,15 +54446,15 @@ a2.jb(B.mc,new A.h(0,p))}else{q=0
 p=null}if(a2.b.i(0,B.mb)!=null){q+=a2.fJ(B.mb,new A.af(0,a5.b,0,Math.max(0,a6-q-r))).b
 a2.jb(B.mb,new A.h(0,Math.max(0,a6-q)))}if(a2.b.i(0,B.j5)!=null){o=a2.fJ(B.j5,a5)
 a2.jb(B.j5,new A.h(0,s))
-if(!a2.ay)r+=o.b}else o=B.K
+if(!a2.ay)r+=o.b}else o=B.L
 n=a2.f
 m=Math.max(0,a6-Math.max(n.d,q))
 if(a2.b.i(0,B.j1)!=null){l=Math.max(0,m-r)
 a2.fJ(B.j1,new A.Ff(0,s,o.b,0,a5.b,0,l))
 a2.jb(B.j1,new A.h(0,r))}if(a2.b.i(0,B.j3)!=null){a2.fJ(B.j3,new A.af(0,a5.b,0,m))
-a2.jb(B.j3,B.i)}k=a2.b.i(0,B.eq)!=null&&!a2.at?a2.fJ(B.eq,a5):B.K
+a2.jb(B.j3,B.i)}k=a2.b.i(0,B.eq)!=null&&!a2.at?a2.fJ(B.eq,a5):B.L
 if(a2.b.i(0,B.j4)!=null){j=a2.fJ(B.j4,new A.af(0,a5.b,0,Math.max(0,m-r)))
-a2.jb(B.j4,new A.h((a4-j.a)/2,m-j.b))}else j=B.K
+a2.jb(B.j4,new A.h((a4-j.a)/2,m-j.b))}else j=B.L
 i=A.bK("floatingActionButtonRect")
 if(a2.b.i(0,B.j6)!=null){h=a2.fJ(B.j6,a3)
 g=new A.agF(h,j,m,s,n,a2.r,a7,k,a2.w)
@@ -54465,14 +54465,14 @@ d=e.a
 c=e.b
 i.b=new A.n(d,c,d+h.a,c+h.b)}if(a2.b.i(0,B.eq)!=null){d=a2.ax
 b=d!=null&&d<a4
-if(k.j(0,B.K))k=a2.fJ(B.eq,b?a3:a5)
+if(k.j(0,B.L))k=a2.fJ(B.eq,b?a3:a5)
 $label0$0:{c=!0
 a=!0
 a=B.jm===a2.z
 !a
 if(a)break $label0$0
 break $label0$0}a=i.aX()
-if(!new A.t(a.c-a.a,a.d-a.b).j(0,B.K)&&a2.at&&c)a0=p!=null?Math.min(p,i.aX().b):i.aX().b
+if(!new A.t(a.c-a.a,a.d-a.b).j(0,B.L)&&a2.at&&c)a0=p!=null?Math.min(p,i.aX().b):i.aX().b
 else a0=a2.at?Math.min(m,a6-a2.r.d):m
 if(b){d.toString
 a1=(a4-d)/2}else a1=0
@@ -56621,7 +56621,7 @@ p=a7.a
 p.toString}n=a7.f
 m=a7.giF()
 i=r===B.Ak?B.o:B.M
-a4=A.cc(a8,a8,A.ia(A.aHc(B.cA,new A.Zo(a7.gafZ(),B.ag,B.k,i,B.l,a8,B.dy,a8,0,q,a8),m,!0,!1,p.ax,p.ch,p.ay,p.CW),a8,a8,n,B.K),!1,a8,a8,!1,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,B.Sk,a8,a8,a8,a8,a8,a8,a8)
+a4=A.cc(a8,a8,A.ia(A.aHc(B.cA,new A.Zo(a7.gafZ(),B.ag,B.k,i,B.l,a8,B.dy,a8,0,q,a8),m,!0,!1,p.ax,p.ch,p.ay,p.CW),a8,a8,n,B.L),!1,a8,a8,!1,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,a8,B.Sk,a8,a8,a8,a8,a8,a8,a8)
 a7.a.toString
 if(r===B.lx)a5=B.IQ.E(0,B.aA)
 else a5=a8
@@ -56637,7 +56637,7 @@ n=a7.giF().gqK()
 n.toString
 m=n>0
 a4=new A.d8(p,m?a8:1,1,a4,a8)
-if(!a6.j(0,B.u)&&m)a4=A.ia(a4,a8,a8,new A.U8(a6,n,a8),B.K)
+if(!a6.j(0,B.u)&&m)a4=A.ia(a4,a8,a8,new A.U8(a6,n,a8),B.L)
 p=A.bC(a9,a8,t.w).w
 a7.a.toString
 return A.NG(a4,p.akY(s.ax))}}
@@ -57245,7 +57245,7 @@ a.aB(t.bZ)
 s=A.a7(a)
 r=s.dU.c
 if(r==null)r=o.ax.b
-q=A.u(A.ia(A.nh(B.cD,p,B.a_,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,d,p,p,p,p,p,p,!1,B.bY),p,p,new A.ZD(r,p),B.K),22,22)
+q=A.u(A.ia(A.nh(B.cD,p,B.a_,!1,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,d,p,p,p,p,p,p,!1,B.bY),p,p,new A.ZD(r,p),B.L),22,22)
 switch(b.a){case 0:s=A.aAk(1.5707963267948966,q)
 break
 case 1:s=q
@@ -57393,7 +57393,7 @@ if(s===-1)return!0
 return b>s===r.F},
 af_(){var s,r,q,p,o=this,n={}
 n.a=-1
-n.b=B.K
+n.b=B.L
 n.c=0
 s=o.S$
 s.toString
@@ -61130,7 +61130,7 @@ bb(a){return 0},
 bk(a){return 0},
 ba(a){return 0},
 a6j(a){return this.cc(a)},
-cc(a){return B.K},
+cc(a){return B.L},
 fo(a,b){return this.ah(B.dI,new A.aF(a,b),this.gtq())},
 a6i(a){return this.dI(a.a,a.b)},
 dI(a,b){return null},
@@ -62385,9 +62385,9 @@ A.pv.prototype={
 J(){return"CrossAxisAlignment."+this.b},
 DS(a,b){var s,r=this
 $label0$0:{if(B.hr===r||B.hs===r){s=0
-break $label0$0}if(B.L===r){s=b?a:0
+break $label0$0}if(B.K===r){s=b?a:0
 break $label0$0}if(B.l===r){s=a/2
-break $label0$0}if(B.dM===r){s=B.L.DS(a,!b)
+break $label0$0}if(B.dM===r){s=B.K.DS(a,!b)
 break $label0$0}s=null}return s}}
 A.r5.prototype={
 sCo(a){if(this.t===a)return
@@ -62431,7 +62431,7 @@ $label0$1:{s=!1
 if(B.hs===r){switch(this.q.a){case 0:s=!0
 break
 case 1:break
-default:s=null}break $label0$1}if(B.L===r||B.l===r||B.dM===r||B.hr===r)break $label0$1
+default:s=null}break $label0$1}if(B.K===r||B.l===r||B.dM===r||B.hr===r)break $label0$1
 s=null}return s},
 a8_(a){var s
 switch(this.q.a){case 0:s=a.b
@@ -62467,7 +62467,7 @@ default:q=null}break
 default:q=null}return q},
 Nc(a){var s,r,q=null,p=this.R
 $label0$0:{if(B.hr===p){s=!0
-break $label0$0}if(B.L===p||B.l===p||B.dM===p||B.hs===p){s=!1
+break $label0$0}if(B.K===p||B.l===p||B.dM===p||B.hs===p){s=!1
 break $label0$0}s=q}switch(this.q.a){case 0:r=a.d
 s=s?A.ef(r,q):new A.af(0,1/0,0,r)
 break
@@ -62484,7 +62484,7 @@ case 1:q=0
 break
 default:q=null}s=this.R
 $label0$1:{if(B.hr===s){r=!0
-break $label0$1}if(B.L===s||B.l===s||B.dM===s||B.hs===s){r=!1
+break $label0$1}if(B.K===s||B.l===s||B.dM===s||B.hs===s){r=!1
 break $label0$1}r=null}switch(this.q.a){case 0:r=r?b.d:0
 r=new A.af(q,c,r,b.d)
 q=r
@@ -62575,7 +62575,7 @@ n=A.aGG(n,a)
 o=s}k=r.b
 k.toString
 r=q.a(k).af$}$label0$1:{q=n==null
-if(q){p=B.K
+if(q){p=B.L
 break $label0$1}h=a
 g=a
 f=n.a
@@ -65487,10 +65487,10 @@ dI(a,b){var s=this.t$
 return s==null?null:s.fo(this.B.on(a),b)},
 bm(){var s=this,r=t.k.a(A.o.prototype.ga_.call(s)),q=s.t$,p=s.B
 if(q!=null){q.bP(p.on(r),!0)
-s.id=s.t$.gp()}else s.id=p.on(r).aT(B.K)},
+s.id=s.t$.gp()}else s.id=p.on(r).aT(B.L)},
 cc(a){var s=this.t$
 s=s==null?null:s.ah(B.T,this.B.on(a),s.gcb())
-return s==null?this.B.on(a).aT(B.K):s}}
+return s==null?this.B.on(a).aT(B.L):s}}
 A.OZ.prototype={
 saq7(a){if(this.B===a)return
 this.B=a
@@ -65505,7 +65505,7 @@ r=a.d
 return new A.af(q,p,s,r<1/0?r:A.w(this.a2,s,r))},
 tr(a,b){var s=this.t$
 if(s!=null)return a.aT(b.$2(s,this.Px(a)))
-return this.Px(a).aT(B.K)},
+return this.Px(a).aT(B.L)},
 cc(a){return this.tr(a,A.fo())},
 bm(){this.id=this.tr(t.k.a(A.o.prototype.ga_.call(this)),A.kT())}}
 A.CK.prototype={
@@ -68626,7 +68626,7 @@ k=A.a([],t.M6)
 j=c.S$
 s=A.l(c).h("a8.1")
 i=b
-h=B.K
+h=B.L
 while(j!=null){g=A.aAs(a1.$2(j,o),c.q)
 f=i==null
 e=f?new A.xE(g,j):i.asU(j,g,m,l,q)
@@ -68634,7 +68634,7 @@ if(e!=null){k.push(e)
 if(f)f=b
 else{f=i.a
 g=new A.t(f.b,f.a)
-f=g}if(f==null)f=B.K
+f=g}if(f==null)f=B.L
 g=new A.t(h.a+f.a,Math.max(h.b,f.b))
 h=g
 i=e}f=j.b
@@ -72193,7 +72193,7 @@ return A.aQI(s.f,s.x,null,null,s.c,a.aB(t.I).w,s.d,s.r)}}
 A.uu.prototype={
 gade(){switch(this.e.a){case 0:return!0
 case 1:var s=this.w
-return s===B.L||s===B.dM}},
+return s===B.K||s===B.dM}},
 BO(a){var s=this.x
 s=this.gade()?A.cU(a):null
 return s},
@@ -77733,7 +77733,7 @@ bl(a){return 0},
 bb(a){return 0},
 bk(a){return 0},
 ba(a){return 0},
-cc(a){return B.K},
+cc(a){return B.L},
 dI(a,b){return null},
 bm(){var s=this,r=t.k.a(A.o.prototype.ga_.call(s)),q=s.HO$
 q.toString
@@ -79666,7 +79666,7 @@ l(){this.d.l()
 this.e.l()
 this.a3S()},
 L(a){var s=this,r=null,q=s.a,p=s.d,o=s.e,n=q.e,m=s.f
-return new A.dt(s.gEK(),new A.it(A.ia(new A.it(q.w,r),new A.V5(p,o,n,m),r,r,B.K),r),r,t.WA)}}
+return new A.dt(s.gEK(),new A.it(A.ia(new A.it(q.w,r),new A.V5(p,o,n,m),r,r,B.L),r),r,t.WA)}}
 A.x4.prototype={
 J(){return"_GlowState."+this.b}}
 A.G5.prototype={
@@ -83679,7 +83679,7 @@ q.wo()
 s=q.ga8g()
 r=q.CW
 r===$&&A.b()
-return new A.dt(q.gagm(),new A.dt(q.gab3(),new A.it(A.Ba(B.ch,new A.kt(A.kn(A.ia(new A.it(q.a.c,p),r,q.z,p,B.K),B.bt,p,p,new A.aeH(q),new A.aeI(q)),s,p,!1,q.ch),p,p,p,p,q.gago(),p),p),p,t.WA),p,t.ji)}}
+return new A.dt(q.gagm(),new A.dt(q.gab3(),new A.it(A.Ba(B.ch,new A.kt(A.kn(A.ia(new A.it(q.a.c,p),r,q.z,p,B.L),B.bt,p,p,new A.aeH(q),new A.aeI(q)),s,p,!1,q.ch),p,p,p,p,q.gago(),p),p),p,t.WA),p,t.ji)}}
 A.aeG.prototype={
 $0(){var s=this.a,r=s.x
 r===$&&A.b()
@@ -87451,7 +87451,7 @@ break $label0$0}return s},
 dI(a,b){var s=this.t$,r=s==null?null:s.fo(new A.af(0,a.b/this.q,0,1/0),b)
 return r==null?null:this.q*r},
 cc(a){var s=this.t$,r=s==null?null:s.ah(B.T,new A.af(0,a.b/this.q,0,1/0),s.gcb())
-if(r==null)r=B.K
+if(r==null)r=B.L
 return a.aT(r.a9(0,this.q))},
 bm(){var s,r=this,q=r.t$
 if(q==null)return
@@ -95738,7 +95738,7 @@ B.jF=new A.i9(8,"liveTextInput")
 B.jG=new A.i9(9,"custom")
 B.nJ=new A.k6(!1)
 B.nK=new A.k6(!0)
-B.L=new A.pv(0,"start")
+B.K=new A.pv(0,"start")
 B.dM=new A.pv(1,"end")
 B.l=new A.pv(2,"center")
 B.hr=new A.pv(3,"stretch")
@@ -96036,8 +96036,8 @@ B.eW=new A.pM(0,"none")
 B.oq=new A.pM(1,"low")
 B.bQ=new A.pM(2,"medium")
 B.eX=new A.pM(3,"high")
-B.K=new A.t(0,0)
-B.Jv=new A.M6(B.K,B.K)
+B.L=new A.t(0,0)
+B.Jv=new A.M6(B.L,B.L)
 B.a1s=new A.pN(!0,A.aBn(),A.aIY())
 B.eY=new A.pN(!1,A.aBn(),A.aIY())
 B.or=new A.li(!0,A.aIu(),A.ae("li<tB>"))
@@ -97668,7 +97668,7 @@ B.yT=new A.nM(2,"belowBaseline")
 B.yU=new A.nM(3,"top")
 B.ea=new A.nM(4,"bottom")
 B.yV=new A.nM(5,"middle")
-B.R2=new A.vj(B.K,B.ea,null,null)
+B.R2=new A.vj(B.L,B.ea,null,null)
 B.yX=new A.bQ(0,0)
 B.yY=new A.lM(0,"cancel")
 B.kQ=new A.lM(1,"add")
@@ -97701,7 +97701,7 @@ B.z0=new A.aF(0,0)
 B.Re=new A.aF(0,!0)
 B.cp=new A.Ew(2,"collapsed")
 B.Rf=new A.aF(B.cp,B.cp)
-B.Rg=new A.aF(B.K,0)
+B.Rg=new A.aF(B.L,0)
 B.iG=new A.Ew(0,"left")
 B.iH=new A.Ew(1,"right")
 B.Rh=new A.aF(B.iG,B.iH)
@@ -98081,19 +98081,19 @@ B.fH=new A.y(!0,B.Hx,null,null,null,null,16,B.f,null,null,null,null,null,null,nu
 B.n=new A.m8(0)
 B.Vp=new A.y(!1,B.jJ,null,"CupertinoSystemText",null,null,17,null,null,-0.41,null,null,null,null,null,null,null,B.n,null,null,null,null,null,null,null,null)
 B.AB=new A.y(!0,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.lB,null,null,null,null,null,null,null,null)
-B.VH=new A.y(!0,B.d,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.VI=new A.y(!0,B.d,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Es=new A.C(1,0.5176470588235295,0.5176470588235295,0.5176470588235295,B.h)
-B.VJ=new A.y(!0,B.Es,null,null,null,null,16,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.VK=new A.y(!0,B.Es,null,null,null,null,16,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.GK=new A.C(1,0.44313725490196076,0.49019607843137253,0.5882352941176471,B.h)
 B.AC=new A.y(!0,B.GK,null,null,null,null,16,B.C,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.fI=new A.y(!0,B.d,null,null,null,null,16,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.j)
-B.Wv=new A.y(!0,B.t,null,null,null,null,16,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.WC=new A.y(!1,null,null,null,null,null,15,B.f,null,-0.15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Ww=new A.y(!0,B.t,null,null,null,null,16,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.WD=new A.y(!1,null,null,null,null,null,15,B.f,null,-0.15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.AF=new A.y(!0,B.d,null,null,null,null,0,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.iJ=new A.y(!0,null,null,null,null,null,null,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.lF=new A.y(!0,B.d,null,null,null,null,16,B.C,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a1I=new A.y(!0,B.t,null,null,null,null,14,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.WW=new A.y(!0,B.t,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.WX=new A.y(!0,B.t,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bq=new A.y(!0,B.d,null,null,null,null,16,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.cr=new A.y(!0,B.d,null,null,null,null,14,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.AG=new A.y(!1,null,null,null,null,null,14,B.f,null,-0.15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -98101,214 +98101,214 @@ B.XK=new A.y(!0,null,null,null,null,null,null,B.f,null,null,null,null,null,null,
 B.nk=new A.C(1,0.6862745098039216,0.6862745098039216,0.6862745098039216,B.h)
 B.Y_=new A.y(!0,B.nk,null,null,null,null,16,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Vc=new A.y(!0,B.a3,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino displayLarge",null,null,null,null)
-B.WM=new A.y(!0,B.a3,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino displayMedium",null,null,null,null)
-B.X2=new A.y(!0,B.a3,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino displaySmall",null,null,null,null)
-B.W6=new A.y(!0,B.a3,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino headlineLarge",null,null,null,null)
+B.WN=new A.y(!0,B.a3,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino displayMedium",null,null,null,null)
+B.X3=new A.y(!0,B.a3,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino displaySmall",null,null,null,null)
+B.W7=new A.y(!0,B.a3,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino headlineLarge",null,null,null,null)
 B.Ve=new A.y(!0,B.a3,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino headlineMedium",null,null,null,null)
 B.Xs=new A.y(!0,B.Z,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino headlineSmall",null,null,null,null)
 B.Vd=new A.y(!0,B.Z,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino titleLarge",null,null,null,null)
 B.XN=new A.y(!0,B.Z,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino titleMedium",null,null,null,null)
-B.WF=new A.y(!0,B.t,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino titleSmall",null,null,null,null)
+B.WG=new A.y(!0,B.t,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino titleSmall",null,null,null,null)
 B.Yh=new A.y(!0,B.Z,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino bodyLarge",null,null,null,null)
 B.V3=new A.y(!0,B.Z,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino bodyMedium",null,null,null,null)
-B.WJ=new A.y(!0,B.a3,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino bodySmall",null,null,null,null)
-B.WB=new A.y(!0,B.Z,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino labelLarge",null,null,null,null)
-B.WG=new A.y(!0,B.t,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino labelMedium",null,null,null,null)
+B.WK=new A.y(!0,B.a3,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino bodySmall",null,null,null,null)
+B.WC=new A.y(!0,B.Z,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino labelLarge",null,null,null,null)
+B.WH=new A.y(!0,B.t,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino labelMedium",null,null,null,null)
 B.V0=new A.y(!0,B.t,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackCupertino labelSmall",null,null,null,null)
-B.Yi=new A.eG(B.Vc,B.WM,B.X2,B.W6,B.Ve,B.Xs,B.Vd,B.XN,B.WF,B.Yh,B.V3,B.WJ,B.WB,B.WG,B.V0)
+B.Yi=new A.eG(B.Vc,B.WN,B.X3,B.W7,B.Ve,B.Xs,B.Vd,B.XN,B.WG,B.Yh,B.V3,B.WK,B.WC,B.WH,B.V0)
 B.XQ=new A.y(!0,B.a2,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity displayLarge",null,null,null,null)
 B.Vo=new A.y(!0,B.a2,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity displayMedium",null,null,null,null)
 B.XR=new A.y(!0,B.a2,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity displaySmall",null,null,null,null)
 B.Y2=new A.y(!0,B.a2,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity headlineLarge",null,null,null,null)
 B.Vw=new A.y(!0,B.a2,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity headlineMedium",null,null,null,null)
-B.Wk=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity headlineSmall",null,null,null,null)
-B.VG=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity titleLarge",null,null,null,null)
-B.X7=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity titleMedium",null,null,null,null)
-B.Xa=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity titleSmall",null,null,null,null)
+B.Wl=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity headlineSmall",null,null,null,null)
+B.VH=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity titleLarge",null,null,null,null)
+B.X8=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity titleMedium",null,null,null,null)
+B.Xb=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity titleSmall",null,null,null,null)
 B.Xo=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity bodyLarge",null,null,null,null)
-B.WT=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity bodyMedium",null,null,null,null)
-B.WP=new A.y(!0,B.a2,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity bodySmall",null,null,null,null)
-B.W0=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity labelLarge",null,null,null,null)
-B.WR=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity labelMedium",null,null,null,null)
-B.VC=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity labelSmall",null,null,null,null)
-B.Yj=new A.eG(B.XQ,B.Vo,B.XR,B.Y2,B.Vw,B.Wk,B.VG,B.X7,B.Xa,B.Xo,B.WT,B.WP,B.W0,B.WR,B.VC)
-B.WE=new A.y(!0,B.a2,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond displayLarge",null,null,null,null)
+B.WU=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity bodyMedium",null,null,null,null)
+B.WQ=new A.y(!0,B.a2,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity bodySmall",null,null,null,null)
+B.W1=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity labelLarge",null,null,null,null)
+B.WS=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity labelMedium",null,null,null,null)
+B.VD=new A.y(!0,B.d,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedwoodCity labelSmall",null,null,null,null)
+B.Yj=new A.eG(B.XQ,B.Vo,B.XR,B.Y2,B.Vw,B.Wl,B.VH,B.X8,B.Xb,B.Xo,B.WU,B.WQ,B.W1,B.WS,B.VD)
+B.WF=new A.y(!0,B.a2,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond displayLarge",null,null,null,null)
 B.Va=new A.y(!0,B.a2,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond displayMedium",null,null,null,null)
 B.XV=new A.y(!0,B.a2,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond displaySmall",null,null,null,null)
 B.Vk=new A.y(!0,B.a2,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond headlineLarge",null,null,null,null)
 B.Xp=new A.y(!0,B.a2,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond headlineMedium",null,null,null,null)
-B.WN=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond headlineSmall",null,null,null,null)
+B.WO=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond headlineSmall",null,null,null,null)
 B.XT=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond titleLarge",null,null,null,null)
-B.VL=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond titleMedium",null,null,null,null)
-B.VB=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond titleSmall",null,null,null,null)
+B.VM=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond titleMedium",null,null,null,null)
+B.VC=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond titleSmall",null,null,null,null)
 B.Y5=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond bodyLarge",null,null,null,null)
 B.XE=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond bodyMedium",null,null,null,null)
-B.X9=new A.y(!0,B.a2,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond bodySmall",null,null,null,null)
+B.Xa=new A.y(!0,B.a2,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond bodySmall",null,null,null,null)
 B.Vl=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond labelLarge",null,null,null,null)
-B.Wf=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond labelMedium",null,null,null,null)
+B.Wg=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond labelMedium",null,null,null,null)
 B.UY=new A.y(!0,B.d,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteRedmond labelSmall",null,null,null,null)
-B.Yk=new A.eG(B.WE,B.Va,B.XV,B.Vk,B.Xp,B.WN,B.XT,B.VL,B.VB,B.Y5,B.XE,B.X9,B.Vl,B.Wf,B.UY)
-B.VW=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView displayLarge",null,null,null,null)
-B.W4=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView displayMedium",null,null,null,null)
-B.VA=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView displaySmall",null,null,null,null)
+B.Yk=new A.eG(B.WF,B.Va,B.XV,B.Vk,B.Xp,B.WO,B.XT,B.VM,B.VC,B.Y5,B.XE,B.Xa,B.Vl,B.Wg,B.UY)
+B.VX=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView displayLarge",null,null,null,null)
+B.W5=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView displayMedium",null,null,null,null)
+B.VB=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView displaySmall",null,null,null,null)
 B.V_=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView headlineLarge",null,null,null,null)
-B.Wu=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView headlineMedium",null,null,null,null)
+B.Wv=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView headlineMedium",null,null,null,null)
 B.Y4=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView headlineSmall",null,null,null,null)
 B.Vy=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView titleLarge",null,null,null,null)
-B.VP=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView titleMedium",null,null,null,null)
-B.X8=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView titleSmall",null,null,null,null)
-B.Wx=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView bodyLarge",null,null,null,null)
+B.VQ=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView titleMedium",null,null,null,null)
+B.X9=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView titleSmall",null,null,null,null)
+B.Wy=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView bodyLarge",null,null,null,null)
 B.Ya=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView bodyMedium",null,null,null,null)
 B.Y9=new A.y(!0,B.a2,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView bodySmall",null,null,null,null)
-B.W3=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView labelLarge",null,null,null,null)
+B.W4=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView labelLarge",null,null,null,null)
 B.Xi=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView labelMedium",null,null,null,null)
 B.XX=new A.y(!0,B.d,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
-B.Yl=new A.eG(B.VW,B.W4,B.VA,B.V_,B.Wu,B.Y4,B.Vy,B.VP,B.X8,B.Wx,B.Ya,B.Y9,B.W3,B.Xi,B.XX)
+B.Yl=new A.eG(B.VX,B.W5,B.VB,B.V_,B.Wv,B.Y4,B.Vy,B.VQ,B.X9,B.Wy,B.Ya,B.Y9,B.W4,B.Xi,B.XX)
 B.Y3=new A.y(!1,null,null,null,null,null,57,B.f,null,-0.25,null,B.aS,1.12,B.J,null,null,null,null,null,null,null,"dense displayLarge 2021",null,null,null,null)
 B.Y7=new A.y(!1,null,null,null,null,null,45,B.f,null,0,null,B.aS,1.16,B.J,null,null,null,null,null,null,null,"dense displayMedium 2021",null,null,null,null)
 B.Y8=new A.y(!1,null,null,null,null,null,36,B.f,null,0,null,B.aS,1.22,B.J,null,null,null,null,null,null,null,"dense displaySmall 2021",null,null,null,null)
 B.Y0=new A.y(!1,null,null,null,null,null,32,B.f,null,0,null,B.aS,1.25,B.J,null,null,null,null,null,null,null,"dense headlineLarge 2021",null,null,null,null)
-B.VQ=new A.y(!1,null,null,null,null,null,28,B.f,null,0,null,B.aS,1.29,B.J,null,null,null,null,null,null,null,"dense headlineMedium 2021",null,null,null,null)
+B.VR=new A.y(!1,null,null,null,null,null,28,B.f,null,0,null,B.aS,1.29,B.J,null,null,null,null,null,null,null,"dense headlineMedium 2021",null,null,null,null)
 B.Vm=new A.y(!1,null,null,null,null,null,24,B.f,null,0,null,B.aS,1.33,B.J,null,null,null,null,null,null,null,"dense headlineSmall 2021",null,null,null,null)
-B.WX=new A.y(!1,null,null,null,null,null,22,B.f,null,0,null,B.aS,1.27,B.J,null,null,null,null,null,null,null,"dense titleLarge 2021",null,null,null,null)
-B.VS=new A.y(!1,null,null,null,null,null,16,B.aX,null,0.15,null,B.aS,1.5,B.J,null,null,null,null,null,null,null,"dense titleMedium 2021",null,null,null,null)
-B.X3=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.aS,1.43,B.J,null,null,null,null,null,null,null,"dense titleSmall 2021",null,null,null,null)
+B.WY=new A.y(!1,null,null,null,null,null,22,B.f,null,0,null,B.aS,1.27,B.J,null,null,null,null,null,null,null,"dense titleLarge 2021",null,null,null,null)
+B.VT=new A.y(!1,null,null,null,null,null,16,B.aX,null,0.15,null,B.aS,1.5,B.J,null,null,null,null,null,null,null,"dense titleMedium 2021",null,null,null,null)
+B.X4=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.aS,1.43,B.J,null,null,null,null,null,null,null,"dense titleSmall 2021",null,null,null,null)
 B.XM=new A.y(!1,null,null,null,null,null,16,B.f,null,0.5,null,B.aS,1.5,B.J,null,null,null,null,null,null,null,"dense bodyLarge 2021",null,null,null,null)
-B.VY=new A.y(!1,null,null,null,null,null,14,B.f,null,0.25,null,B.aS,1.43,B.J,null,null,null,null,null,null,null,"dense bodyMedium 2021",null,null,null,null)
-B.Wh=new A.y(!1,null,null,null,null,null,12,B.f,null,0.4,null,B.aS,1.33,B.J,null,null,null,null,null,null,null,"dense bodySmall 2021",null,null,null,null)
+B.VZ=new A.y(!1,null,null,null,null,null,14,B.f,null,0.25,null,B.aS,1.43,B.J,null,null,null,null,null,null,null,"dense bodyMedium 2021",null,null,null,null)
+B.Wi=new A.y(!1,null,null,null,null,null,12,B.f,null,0.4,null,B.aS,1.33,B.J,null,null,null,null,null,null,null,"dense bodySmall 2021",null,null,null,null)
 B.Y6=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.aS,1.43,B.J,null,null,null,null,null,null,null,"dense labelLarge 2021",null,null,null,null)
 B.XF=new A.y(!1,null,null,null,null,null,12,B.aX,null,0.5,null,B.aS,1.33,B.J,null,null,null,null,null,null,null,"dense labelMedium 2021",null,null,null,null)
 B.Xf=new A.y(!1,null,null,null,null,null,11,B.aX,null,0.5,null,B.aS,1.45,B.J,null,null,null,null,null,null,null,"dense labelSmall 2021",null,null,null,null)
-B.Ym=new A.eG(B.Y3,B.Y7,B.Y8,B.Y0,B.VQ,B.Vm,B.WX,B.VS,B.X3,B.XM,B.VY,B.Wh,B.Y6,B.XF,B.Xf)
-B.Wp=new A.y(!1,null,null,null,null,null,57,B.f,null,-0.25,null,B.S,1.12,B.J,null,null,null,null,null,null,null,"tall displayLarge 2021",null,null,null,null)
+B.Ym=new A.eG(B.Y3,B.Y7,B.Y8,B.Y0,B.VR,B.Vm,B.WY,B.VT,B.X4,B.XM,B.VZ,B.Wi,B.Y6,B.XF,B.Xf)
+B.Wq=new A.y(!1,null,null,null,null,null,57,B.f,null,-0.25,null,B.S,1.12,B.J,null,null,null,null,null,null,null,"tall displayLarge 2021",null,null,null,null)
 B.Xz=new A.y(!1,null,null,null,null,null,45,B.f,null,0,null,B.S,1.16,B.J,null,null,null,null,null,null,null,"tall displayMedium 2021",null,null,null,null)
 B.Vt=new A.y(!1,null,null,null,null,null,36,B.f,null,0,null,B.S,1.22,B.J,null,null,null,null,null,null,null,"tall displaySmall 2021",null,null,null,null)
 B.Vv=new A.y(!1,null,null,null,null,null,32,B.f,null,0,null,B.S,1.25,B.J,null,null,null,null,null,null,null,"tall headlineLarge 2021",null,null,null,null)
 B.XO=new A.y(!1,null,null,null,null,null,28,B.f,null,0,null,B.S,1.29,B.J,null,null,null,null,null,null,null,"tall headlineMedium 2021",null,null,null,null)
-B.WK=new A.y(!1,null,null,null,null,null,24,B.f,null,0,null,B.S,1.33,B.J,null,null,null,null,null,null,null,"tall headlineSmall 2021",null,null,null,null)
+B.WL=new A.y(!1,null,null,null,null,null,24,B.f,null,0,null,B.S,1.33,B.J,null,null,null,null,null,null,null,"tall headlineSmall 2021",null,null,null,null)
 B.Vr=new A.y(!1,null,null,null,null,null,22,B.f,null,0,null,B.S,1.27,B.J,null,null,null,null,null,null,null,"tall titleLarge 2021",null,null,null,null)
 B.Xu=new A.y(!1,null,null,null,null,null,16,B.aX,null,0.15,null,B.S,1.5,B.J,null,null,null,null,null,null,null,"tall titleMedium 2021",null,null,null,null)
-B.VN=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"tall titleSmall 2021",null,null,null,null)
+B.VO=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"tall titleSmall 2021",null,null,null,null)
 B.UZ=new A.y(!1,null,null,null,null,null,16,B.f,null,0.5,null,B.S,1.5,B.J,null,null,null,null,null,null,null,"tall bodyLarge 2021",null,null,null,null)
 B.Xg=new A.y(!1,null,null,null,null,null,14,B.f,null,0.25,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"tall bodyMedium 2021",null,null,null,null)
 B.Xy=new A.y(!1,null,null,null,null,null,12,B.f,null,0.4,null,B.S,1.33,B.J,null,null,null,null,null,null,null,"tall bodySmall 2021",null,null,null,null)
 B.Xh=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"tall labelLarge 2021",null,null,null,null)
-B.W7=new A.y(!1,null,null,null,null,null,12,B.aX,null,0.5,null,B.S,1.33,B.J,null,null,null,null,null,null,null,"tall labelMedium 2021",null,null,null,null)
-B.VU=new A.y(!1,null,null,null,null,null,11,B.aX,null,0.5,null,B.S,1.45,B.J,null,null,null,null,null,null,null,"tall labelSmall 2021",null,null,null,null)
-B.Yn=new A.eG(B.Wp,B.Xz,B.Vt,B.Vv,B.XO,B.WK,B.Vr,B.Xu,B.VN,B.UZ,B.Xg,B.Xy,B.Xh,B.W7,B.VU)
+B.W8=new A.y(!1,null,null,null,null,null,12,B.aX,null,0.5,null,B.S,1.33,B.J,null,null,null,null,null,null,null,"tall labelMedium 2021",null,null,null,null)
+B.VV=new A.y(!1,null,null,null,null,null,11,B.aX,null,0.5,null,B.S,1.45,B.J,null,null,null,null,null,null,null,"tall labelSmall 2021",null,null,null,null)
+B.Yn=new A.eG(B.Wq,B.Xz,B.Vt,B.Vv,B.XO,B.WL,B.Vr,B.Xu,B.VO,B.UZ,B.Xg,B.Xy,B.Xh,B.W8,B.VV)
 B.Yf=new A.y(!0,B.a2,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino displayLarge",null,null,null,null)
 B.XU=new A.y(!0,B.a2,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino displayMedium",null,null,null,null)
 B.Xk=new A.y(!0,B.a2,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino displaySmall",null,null,null,null)
-B.Wl=new A.y(!0,B.a2,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino headlineLarge",null,null,null,null)
+B.Wm=new A.y(!0,B.a2,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino headlineLarge",null,null,null,null)
 B.XG=new A.y(!0,B.a2,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino headlineMedium",null,null,null,null)
-B.Wg=new A.y(!0,B.d,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino headlineSmall",null,null,null,null)
-B.X4=new A.y(!0,B.d,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino titleLarge",null,null,null,null)
+B.Wh=new A.y(!0,B.d,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino headlineSmall",null,null,null,null)
+B.X5=new A.y(!0,B.d,null,"CupertinoSystemDisplay",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino titleLarge",null,null,null,null)
 B.XC=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino titleMedium",null,null,null,null)
-B.X_=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino titleSmall",null,null,null,null)
+B.X0=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino titleSmall",null,null,null,null)
 B.XZ=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino bodyLarge",null,null,null,null)
-B.Wa=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino bodyMedium",null,null,null,null)
-B.WD=new A.y(!0,B.a2,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino bodySmall",null,null,null,null)
-B.Wj=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino labelLarge",null,null,null,null)
+B.Wb=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino bodyMedium",null,null,null,null)
+B.WE=new A.y(!0,B.a2,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino bodySmall",null,null,null,null)
+B.Wk=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino labelLarge",null,null,null,null)
 B.V8=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino labelMedium",null,null,null,null)
 B.V7=new A.y(!0,B.d,null,"CupertinoSystemText",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteCupertino labelSmall",null,null,null,null)
-B.Yo=new A.eG(B.Yf,B.XU,B.Xk,B.Wl,B.XG,B.Wg,B.X4,B.XC,B.X_,B.XZ,B.Wa,B.WD,B.Wj,B.V8,B.V7)
+B.Yo=new A.eG(B.Yf,B.XU,B.Xk,B.Wm,B.XG,B.Wh,B.X5,B.XC,B.X0,B.XZ,B.Wb,B.WE,B.Wk,B.V8,B.V7)
 B.a7=A.a(s(["Ubuntu","Cantarell","DejaVu Sans","Liberation Sans","Arial"]),t.s)
 B.Xd=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki displayLarge",null,null,null,null)
-B.VI=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki displayMedium",null,null,null,null)
-B.W9=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki displaySmall",null,null,null,null)
-B.X5=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki headlineLarge",null,null,null,null)
-B.WS=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki headlineMedium",null,null,null,null)
+B.VJ=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki displayMedium",null,null,null,null)
+B.Wa=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki displaySmall",null,null,null,null)
+B.X6=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki headlineLarge",null,null,null,null)
+B.WT=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki headlineMedium",null,null,null,null)
 B.XS=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki headlineSmall",null,null,null,null)
-B.W5=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki titleLarge",null,null,null,null)
+B.W6=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki titleLarge",null,null,null,null)
 B.XA=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki titleMedium",null,null,null,null)
-B.Wb=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki titleSmall",null,null,null,null)
-B.X1=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki bodyLarge",null,null,null,null)
-B.Wc=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki bodyMedium",null,null,null,null)
+B.Wc=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki titleSmall",null,null,null,null)
+B.X2=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki bodyLarge",null,null,null,null)
+B.Wd=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki bodyMedium",null,null,null,null)
 B.Vs=new A.y(!0,B.a2,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki bodySmall",null,null,null,null)
 B.Vu=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki labelLarge",null,null,null,null)
-B.VX=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki labelMedium",null,null,null,null)
-B.WV=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki labelSmall",null,null,null,null)
-B.Yp=new A.eG(B.Xd,B.VI,B.W9,B.X5,B.WS,B.XS,B.W5,B.XA,B.Wb,B.X1,B.Wc,B.Vs,B.Vu,B.VX,B.WV)
-B.Ws=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki displayLarge",null,null,null,null)
+B.VY=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki labelMedium",null,null,null,null)
+B.WW=new A.y(!0,B.d,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"whiteHelsinki labelSmall",null,null,null,null)
+B.Yp=new A.eG(B.Xd,B.VJ,B.Wa,B.X6,B.WT,B.XS,B.W6,B.XA,B.Wc,B.X2,B.Wd,B.Vs,B.Vu,B.VY,B.WW)
+B.Wt=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki displayLarge",null,null,null,null)
 B.V9=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki displayMedium",null,null,null,null)
-B.Wn=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki displaySmall",null,null,null,null)
-B.WA=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki headlineLarge",null,null,null,null)
+B.Wo=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki displaySmall",null,null,null,null)
+B.WB=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki headlineLarge",null,null,null,null)
 B.Xl=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki headlineMedium",null,null,null,null)
 B.Y1=new A.y(!0,B.Z,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki headlineSmall",null,null,null,null)
 B.Vz=new A.y(!0,B.Z,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki titleLarge",null,null,null,null)
 B.Xc=new A.y(!0,B.Z,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki titleMedium",null,null,null,null)
 B.Xe=new A.y(!0,B.t,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki titleSmall",null,null,null,null)
-B.WQ=new A.y(!0,B.Z,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki bodyLarge",null,null,null,null)
+B.WR=new A.y(!0,B.Z,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki bodyLarge",null,null,null,null)
 B.Vq=new A.y(!0,B.Z,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki bodyMedium",null,null,null,null)
 B.Xt=new A.y(!0,B.a3,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki bodySmall",null,null,null,null)
-B.W2=new A.y(!0,B.Z,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki labelLarge",null,null,null,null)
+B.W3=new A.y(!0,B.Z,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki labelLarge",null,null,null,null)
 B.XL=new A.y(!0,B.t,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki labelMedium",null,null,null,null)
 B.Xx=new A.y(!0,B.t,null,"Roboto",B.a7,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
-B.Yq=new A.eG(B.Ws,B.V9,B.Wn,B.WA,B.Xl,B.Y1,B.Vz,B.Xc,B.Xe,B.WQ,B.Vq,B.Xt,B.W2,B.XL,B.Xx)
-B.VE=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond displayLarge",null,null,null,null)
-B.Wt=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond displayMedium",null,null,null,null)
+B.Yq=new A.eG(B.Wt,B.V9,B.Wo,B.WB,B.Xl,B.Y1,B.Vz,B.Xc,B.Xe,B.WR,B.Vq,B.Xt,B.W3,B.XL,B.Xx)
+B.VF=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond displayLarge",null,null,null,null)
+B.Wu=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond displayMedium",null,null,null,null)
 B.Yd=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond displaySmall",null,null,null,null)
-B.Wd=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond headlineLarge",null,null,null,null)
-B.Wy=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond headlineMedium",null,null,null,null)
+B.We=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond headlineLarge",null,null,null,null)
+B.Wz=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond headlineMedium",null,null,null,null)
 B.XH=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond headlineSmall",null,null,null,null)
-B.WL=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond titleLarge",null,null,null,null)
+B.WM=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond titleLarge",null,null,null,null)
 B.Xm=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond titleMedium",null,null,null,null)
 B.XY=new A.y(!0,B.t,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond titleSmall",null,null,null,null)
-B.We=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond bodyLarge",null,null,null,null)
-B.VV=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond bodyMedium",null,null,null,null)
+B.Wf=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond bodyLarge",null,null,null,null)
+B.VW=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond bodyMedium",null,null,null,null)
 B.V1=new A.y(!0,B.a3,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond bodySmall",null,null,null,null)
-B.VK=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond labelLarge",null,null,null,null)
+B.VL=new A.y(!0,B.Z,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond labelLarge",null,null,null,null)
 B.Ye=new A.y(!0,B.t,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond labelMedium",null,null,null,null)
 B.Yb=new A.y(!0,B.t,null,"Segoe UI",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedmond labelSmall",null,null,null,null)
-B.Yr=new A.eG(B.VE,B.Wt,B.Yd,B.Wd,B.Wy,B.XH,B.WL,B.Xm,B.XY,B.We,B.VV,B.V1,B.VK,B.Ye,B.Yb)
+B.Yr=new A.eG(B.VF,B.Wu,B.Yd,B.We,B.Wz,B.XH,B.WM,B.Xm,B.XY,B.Wf,B.VW,B.V1,B.VL,B.Ye,B.Yb)
 B.Xr=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView displayLarge",null,null,null,null)
 B.V5=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView displayMedium",null,null,null,null)
-B.WU=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView displaySmall",null,null,null,null)
-B.WO=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView headlineLarge",null,null,null,null)
-B.VZ=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView headlineMedium",null,null,null,null)
+B.WV=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView displaySmall",null,null,null,null)
+B.WP=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView headlineLarge",null,null,null,null)
+B.W_=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView headlineMedium",null,null,null,null)
 B.Xn=new A.y(!0,B.Z,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView headlineSmall",null,null,null,null)
 B.V6=new A.y(!0,B.Z,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView titleLarge",null,null,null,null)
 B.XD=new A.y(!0,B.Z,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView titleMedium",null,null,null,null)
-B.Wo=new A.y(!0,B.t,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView titleSmall",null,null,null,null)
+B.Wp=new A.y(!0,B.t,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView titleSmall",null,null,null,null)
 B.Vi=new A.y(!0,B.Z,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView bodyLarge",null,null,null,null)
-B.VT=new A.y(!0,B.Z,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView bodyMedium",null,null,null,null)
+B.VU=new A.y(!0,B.Z,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView bodyMedium",null,null,null,null)
 B.Yg=new A.y(!0,B.a3,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView bodySmall",null,null,null,null)
-B.WY=new A.y(!0,B.Z,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView labelLarge",null,null,null,null)
-B.Ww=new A.y(!0,B.t,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView labelMedium",null,null,null,null)
-B.VF=new A.y(!0,B.t,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView labelSmall",null,null,null,null)
-B.Ys=new A.eG(B.Xr,B.V5,B.WU,B.WO,B.VZ,B.Xn,B.V6,B.XD,B.Wo,B.Vi,B.VT,B.Yg,B.WY,B.Ww,B.VF)
-B.Wm=new A.y(!1,null,null,null,null,null,57,B.f,null,-0.25,null,B.S,1.12,B.J,null,null,null,null,null,null,null,"englishLike displayLarge 2021",null,null,null,null)
-B.X0=new A.y(!1,null,null,null,null,null,45,B.f,null,0,null,B.S,1.16,B.J,null,null,null,null,null,null,null,"englishLike displayMedium 2021",null,null,null,null)
+B.WZ=new A.y(!0,B.Z,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView labelLarge",null,null,null,null)
+B.Wx=new A.y(!0,B.t,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView labelMedium",null,null,null,null)
+B.VG=new A.y(!0,B.t,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackMountainView labelSmall",null,null,null,null)
+B.Ys=new A.eG(B.Xr,B.V5,B.WV,B.WP,B.W_,B.Xn,B.V6,B.XD,B.Wp,B.Vi,B.VU,B.Yg,B.WZ,B.Wx,B.VG)
+B.Wn=new A.y(!1,null,null,null,null,null,57,B.f,null,-0.25,null,B.S,1.12,B.J,null,null,null,null,null,null,null,"englishLike displayLarge 2021",null,null,null,null)
+B.X1=new A.y(!1,null,null,null,null,null,45,B.f,null,0,null,B.S,1.16,B.J,null,null,null,null,null,null,null,"englishLike displayMedium 2021",null,null,null,null)
 B.Xw=new A.y(!1,null,null,null,null,null,36,B.f,null,0,null,B.S,1.22,B.J,null,null,null,null,null,null,null,"englishLike displaySmall 2021",null,null,null,null)
-B.W1=new A.y(!1,null,null,null,null,null,32,B.f,null,0,null,B.S,1.25,B.J,null,null,null,null,null,null,null,"englishLike headlineLarge 2021",null,null,null,null)
+B.W2=new A.y(!1,null,null,null,null,null,32,B.f,null,0,null,B.S,1.25,B.J,null,null,null,null,null,null,null,"englishLike headlineLarge 2021",null,null,null,null)
 B.XB=new A.y(!1,null,null,null,null,null,28,B.f,null,0,null,B.S,1.29,B.J,null,null,null,null,null,null,null,"englishLike headlineMedium 2021",null,null,null,null)
 B.V2=new A.y(!1,null,null,null,null,null,24,B.f,null,0,null,B.S,1.33,B.J,null,null,null,null,null,null,null,"englishLike headlineSmall 2021",null,null,null,null)
 B.XI=new A.y(!1,null,null,null,null,null,22,B.f,null,0,null,B.S,1.27,B.J,null,null,null,null,null,null,null,"englishLike titleLarge 2021",null,null,null,null)
-B.VO=new A.y(!1,null,null,null,null,null,16,B.aX,null,0.15,null,B.S,1.5,B.J,null,null,null,null,null,null,null,"englishLike titleMedium 2021",null,null,null,null)
-B.VM=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"englishLike titleSmall 2021",null,null,null,null)
+B.VP=new A.y(!1,null,null,null,null,null,16,B.aX,null,0.15,null,B.S,1.5,B.J,null,null,null,null,null,null,null,"englishLike titleMedium 2021",null,null,null,null)
+B.VN=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"englishLike titleSmall 2021",null,null,null,null)
 B.Vg=new A.y(!1,null,null,null,null,null,16,B.f,null,0.5,null,B.S,1.5,B.J,null,null,null,null,null,null,null,"englishLike bodyLarge 2021",null,null,null,null)
-B.Wr=new A.y(!1,null,null,null,null,null,14,B.f,null,0.25,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"englishLike bodyMedium 2021",null,null,null,null)
+B.Ws=new A.y(!1,null,null,null,null,null,14,B.f,null,0.25,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"englishLike bodyMedium 2021",null,null,null,null)
 B.Xj=new A.y(!1,null,null,null,null,null,12,B.f,null,0.4,null,B.S,1.33,B.J,null,null,null,null,null,null,null,"englishLike bodySmall 2021",null,null,null,null)
-B.W_=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"englishLike labelLarge 2021",null,null,null,null)
+B.W0=new A.y(!1,null,null,null,null,null,14,B.aX,null,0.1,null,B.S,1.43,B.J,null,null,null,null,null,null,null,"englishLike labelLarge 2021",null,null,null,null)
 B.XP=new A.y(!1,null,null,null,null,null,12,B.aX,null,0.5,null,B.S,1.33,B.J,null,null,null,null,null,null,null,"englishLike labelMedium 2021",null,null,null,null)
-B.Wq=new A.y(!1,null,null,null,null,null,11,B.aX,null,0.5,null,B.S,1.45,B.J,null,null,null,null,null,null,null,"englishLike labelSmall 2021",null,null,null,null)
-B.Yt=new A.eG(B.Wm,B.X0,B.Xw,B.W1,B.XB,B.V2,B.XI,B.VO,B.VM,B.Vg,B.Wr,B.Xj,B.W_,B.XP,B.Wq)
-B.WH=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity displayLarge",null,null,null,null)
-B.VR=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity displayMedium",null,null,null,null)
-B.WI=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity displaySmall",null,null,null,null)
-B.X6=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity headlineLarge",null,null,null,null)
+B.Wr=new A.y(!1,null,null,null,null,null,11,B.aX,null,0.5,null,B.S,1.45,B.J,null,null,null,null,null,null,null,"englishLike labelSmall 2021",null,null,null,null)
+B.Yt=new A.eG(B.Wn,B.X1,B.Xw,B.W2,B.XB,B.V2,B.XI,B.VP,B.VN,B.Vg,B.Ws,B.Xj,B.W0,B.XP,B.Wr)
+B.WI=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity displayLarge",null,null,null,null)
+B.VS=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity displayMedium",null,null,null,null)
+B.WJ=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity displaySmall",null,null,null,null)
+B.X7=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity headlineLarge",null,null,null,null)
 B.Vx=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity headlineMedium",null,null,null,null)
-B.VD=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity headlineSmall",null,null,null,null)
-B.W8=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity titleLarge",null,null,null,null)
-B.WZ=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity titleMedium",null,null,null,null)
-B.Wi=new A.y(!0,B.t,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity titleSmall",null,null,null,null)
+B.VE=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity headlineSmall",null,null,null,null)
+B.W9=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity titleLarge",null,null,null,null)
+B.X_=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity titleMedium",null,null,null,null)
+B.Wj=new A.y(!0,B.t,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity titleSmall",null,null,null,null)
 B.Xv=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity bodyLarge",null,null,null,null)
 B.V4=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity bodyMedium",null,null,null,null)
 B.Vj=new A.y(!0,B.a3,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity bodySmall",null,null,null,null)
 B.Xq=new A.y(!0,B.Z,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity labelLarge",null,null,null,null)
 B.XJ=new A.y(!0,B.t,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity labelMedium",null,null,null,null)
 B.Vb=new A.y(!0,B.t,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.n,null,null,null,"blackRedwoodCity labelSmall",null,null,null,null)
-B.Yu=new A.eG(B.WH,B.VR,B.WI,B.X6,B.Vx,B.VD,B.W8,B.WZ,B.Wi,B.Xv,B.V4,B.Vj,B.Xq,B.XJ,B.Vb)
+B.Yu=new A.eG(B.WI,B.VS,B.WJ,B.X7,B.Vx,B.VE,B.W9,B.X_,B.Wj,B.Xv,B.V4,B.Vj,B.Xq,B.XJ,B.Vb)
 B.cq=new A.y(!0,B.d,null,null,null,null,22,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Yv=new A.bw("Live Liquidity Pool Tracking",null,B.cq,null,null,null,B.j,1,null,null)
 B.Yw=new A.bw("Token Launch Success Trends",null,B.cq,B.D,null,null,B.j,1,null,null)
@@ -98321,14 +98321,14 @@ B.Yz=new A.bw("Developer Success Trends",null,B.cq,B.D,null,null,B.j,1,null,null
 B.YA=new A.bw("3 PM, 3/15/25",null,B.bq,B.at,null,null,B.j,1,null,null)
 B.AE=new A.y(!0,B.d,null,null,null,null,20,B.a6,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.YB=new A.bw("Quick Links",null,B.AE,null,null,null,null,null,null,null)
-B.Xb=new A.y(!0,B.d,null,null,null,null,80,B.f1,null,null,null,null,1.2,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YC=new A.bw("Snipe the Next\n100x Token Before\nIt Goes Public",null,B.Xb,null,null,null,null,null,null,null)
 B.fK=new A.bw("\xa9 2025 Alpha Edge. All rights reserved.",null,B.bq,B.D,null,null,B.j,1,null,null)
-B.YD=new A.bw("Legal",null,B.AE,B.D,null,null,null,null,null,null)
-B.YE=new A.bw("DEX & Sniping Tool Integration",null,B.cq,null,null,null,B.j,1,null,null)
+B.YC=new A.bw("Legal",null,B.AE,B.D,null,null,null,null,null,null)
+B.YD=new A.bw("DEX & Sniping Tool Integration",null,B.cq,null,null,null,B.j,1,null,null)
 B.Vf=new A.y(!0,B.d,null,null,null,null,24,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YF=new A.bw("Instant alerts for new liquidity pools. Track devs before they launch. Stay ahead of the game.",null,B.Vf,null,null,null,null,null,null,null)
+B.YE=new A.bw("Instant alerts for new liquidity pools. Track devs before they launch. Stay ahead of the game.",null,B.Vf,null,null,null,null,null,null,null)
 B.AI=new A.bw("liquidity 0%",null,B.cr,null,null,null,null,null,null,null)
+B.VA=new A.y(!0,B.d,null,null,null,null,40,B.f1,null,null,null,null,1.2,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.YF=new A.bw("Snipe the Next\n100x Token Before\nIt Goes Public",null,B.VA,null,null,null,null,null,null,null)
 B.XW=new A.y(!0,B.d,null,null,null,null,32,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.YG=new A.bw("Alias",null,B.XW,B.D,null,null,null,null,null,null)
 B.YH=new A.bw("Home    How It Works    Pricing    Discord    Contact Support",null,B.bq,B.D,null,null,null,null,null,null)
@@ -98350,8 +98350,8 @@ B.YR=new A.bw("7qK...2Xv",null,B.bq,null,null,null,B.j,1,null,null)
 B.lG=new A.y(!0,B.d,null,null,null,null,20,B.f1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.AJ=new A.bw("Trending Developers",null,B.lG,B.D,null,null,null,null,null,null)
 B.YS=new A.bw("Are You Ready to Snipe Smarter?",null,B.dt,B.D,null,null,null,null,null,null)
-B.Wz=new A.y(!0,B.d,null,null,null,null,20,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YT=new A.bw("Get access to real-time liquidity tracking & dev\ninsights before anyone else.",null,B.Wz,B.D,null,null,null,null,null,null)
+B.WA=new A.y(!0,B.d,null,null,null,null,20,B.f,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.YT=new A.bw("Get access to real-time liquidity tracking & dev\ninsights before anyone else.",null,B.WA,B.D,null,null,null,null,null,null)
 B.YU=new A.bw("Connect your wallets and sniping tools for seamless trading.",null,B.AD,null,null,null,B.j,2,null,null)
 B.YV=new A.bw("2 year",null,B.cr,null,null,null,null,null,null,null)
 B.YW=new A.bw("How AlphaEdge Gives You the\nTrading Edge",null,B.dt,B.D,null,null,null,null,null,null)
@@ -98671,7 +98671,7 @@ B.Bi=new A.xG(2,"accepted")
 B.j7=new A.xG(3,"started")
 B.Tt=new A.t(100,0)
 B.a11=new A.ms(B.Tt,B.aR,B.ea,null,null)
-B.a12=new A.ms(B.K,B.aR,B.ea,null,null)
+B.a12=new A.ms(B.L,B.aR,B.ea,null,null)
 B.me=new A.Z8(0,"trailing")
 B.Bj=new A.Z8(1,"leading")
 B.mf=new A.xL(0,"idle")
