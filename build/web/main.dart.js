@@ -41495,7 +41495,7 @@ A.Pt.prototype={
 L(a){return new A.qi(new A.agm(this),null)}}
 A.agm.prototype={
 $2(a,b){var s,r=b.b
-if(r>=1200)return this.a.e
+if(r>=1200||r>=640||r<640)return this.a.e
 else{s=this.a
 if(r>=640)return s.d
 else return s.c}},
